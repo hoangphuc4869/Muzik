@@ -169,7 +169,12 @@ header h3 {
   color: #f0049a;
   border: none;
 }
-
+.favorite-songs {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 30px;
+}
 .control .btn-toggle-play {
   width: 56px;
   height: 56px;
@@ -195,6 +200,7 @@ header h3 {
   overflow: visible;
   position: relative;
 }
+
 #progress::-webkit-slider-thumb {
   -webkit-appearance: none;
   width: 15px;

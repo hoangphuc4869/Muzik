@@ -1,0 +1,3382 @@
+[
+  {
+    "id": 1,
+    "productName": "BỘT YOGURT ",
+    "productNumber": "07/TRA-SAS/2018",
+    "productDate": "2018-02-07"
+  },
+  {
+    "id": 2,
+    "productName": "Hỗn hợp nước nho đỏ - Red grape juice blend ",
+    "productNumber": "08/TRA-SAS/2018",
+    "productDate": "2018-02-07"
+  },
+  {
+    "id": 3,
+    "productName": "Bình Giữ Nhiệt Bằng Inox",
+    "productNumber": "09/TRA-SAS/2018",
+    "productDate": "2018-02-07"
+  },
+  {
+    "id": 4,
+    "productName": "Cốc gốm",
+    "productNumber": "10/TRA-SAS/2018",
+    "productDate": "2018-02-08"
+  },
+  {
+    "id": 5,
+    "productName": "Cốc sứ",
+    "productNumber": "11/TRA-SAS/2018",
+    "productDate": "2018-02-08"
+  },
+  {
+    "id": 6,
+    "productName": "Bình giữ nhiệt bằng inox",
+    "productNumber": "12/TRA-SAS/2018",
+    "productDate": "2018-02-08"
+  },
+  {
+    "id": 7,
+    "productName": "Bình Nước bằng nhựa",
+    "productNumber": "13/TRA-SAS/2018",
+    "productDate": "2018-02-08"
+  },
+  {
+    "id": 8,
+    "productName": "Cốc sứ",
+    "productNumber": "14/TRA-SAS/2018",
+    "productDate": "2018-02-08"
+  },
+  {
+    "id": 9,
+    "productName": "Ly giấy",
+    "productNumber": "21/TRA-SAS/2018",
+    "productDate": "2018-03-05"
+  },
+  {
+    "id": 10,
+    "productName": "Nước uống thạch dừa hương chanh dây hiệu Mogu Mogu -Passion Fruit Flavored Drink with Nata De Coco.",
+    "productNumber": "22/TRA-SAS/2018",
+    "productDate": "2018-02-26"
+  },
+  {
+    "id": 11,
+    "productName": "Ly nhựa",
+    "productNumber": "28/TRA-SAS/2018",
+    "productDate": "2018-03-07"
+  },
+  {
+    "id": 12,
+    "productName": "Hộp giấy",
+    "productNumber": "29/TRA-SAS/2018",
+    "productDate": "2018-03-06"
+  },
+  {
+    "id": 13,
+    "productName": "Túi giấy",
+    "productNumber": "30/TRA-SAS/2018",
+    "productDate": "2018-03-08"
+  },
+  {
+    "id": 14,
+    "productName": "Vụn Bánh camramel",
+    "productNumber": "31/TRA-SAS/2018",
+    "productDate": "2018-03-06"
+  },
+  {
+    "id": 15,
+    "productName": "Si rô hương cà phê ",
+    "productNumber": "32/TRA-SAS/2018",
+    "productDate": "2018-03-06"
+  },
+  {
+    "id": 16,
+    "productName": "Bột cacao ",
+    "productNumber": "33/TRA-SAS/2019",
+    "productDate": "2018-03-06"
+  },
+  {
+    "id": 17,
+    "productName": "Hạt ca cao phủ socola ",
+    "productNumber": "34/TRA-SAS/2020",
+    "productDate": "2018-03-14"
+  },
+  {
+    "id": 18,
+    "productName": "Siro hương bánh quy vị quế",
+    "productNumber": "35/TRA-SAS/2021",
+    "productDate": "2018-03-07"
+  },
+
+  {
+    "id": 19,
+    "productName": "Giấy Gói ",
+    "productNumber": "38/TRA-SAS/2021",
+    "productDate": "2018-03-19"
+  },
+  {
+    "id": 20,
+    "productName": "Vụn đường hương cà phê ",
+    "productNumber": "39/TRA-SAS/2018",
+    "productDate": "2018-03-19"
+  },
+  {
+    "id": 21,
+    "productName": "Bình Giữ Nhiệt Bằng Inox",
+    "productNumber": "40/TRA-SAS/2018",
+    "productDate": "2018-03-20"
+  },
+  {
+    "id": 22,
+    "productName": "Ly Inox",
+    "productNumber": "41/TRA-SAS/2018",
+    "productDate": "2018-03-20"
+  },
+  {
+    "id": 23,
+    "productName": "Nước giải khát có ga, có cồn Savanna Apple Cider Dry",
+    "productNumber": "43/TRA-SAS/2018",
+    "productDate": "2018-03-29"
+  },
+  {
+    "id": 24,
+    "productName": "Ly giấy",
+    "productNumber": "44/TRA-SAS/2018",
+    "productDate": "2018-03-30"
+  },
+  {
+    "id": 25,
+    "productName": "Cốc Gốm",
+    "productNumber": "47/TRA-SAS/2018",
+    "productDate": "2018-03-29"
+  },
+  {
+    "id": 26,
+    "productName": "Nước giải khát có ga Authetic Flavour Mate Mate",
+    "productNumber": "54/TRA-SAS/2018",
+    "productDate": "2018-04-11"
+  },
+  {
+    "id": 27,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "51/TRA-SAS/2018",
+    "productDate": "2018-04-16"
+  },
+  {
+    "id": 28,
+    "productName": "Cà phê hạt đã rang RWANDA SHOLI",
+    "productNumber": "55/TRA-SAS/2018",
+    "productDate": "2018-04-17"
+  },
+  {
+    "id": 29,
+    "productName": "Cà phê hạt đã rang MALAWI",
+    "productNumber": "56/TRA-SAS/2018",
+    "productDate": "2018-04-17"
+  },
+  {
+    "id": 30,
+    "productName": "Cà phê hạt đã rang PERU CAPILLA",
+    "productNumber": "57/TRA-SAS/2018",
+    "productDate": "2018-04-17"
+  },
+  {
+    "id": 31,
+    "productName": "Khay Giấy",
+    "productNumber": "58/TRA-SAS/2018",
+    "productDate": "2018-04-01"
+  },
+  {
+    "id": 32,
+    "productName": "Nước giải khát có ga Thomas Henry Slim Tonic",
+    "productNumber": "59/TRA-SAS/2018",
+    "productDate": "2018-04-23"
+  },
+  {
+    "id": 33,
+    "productName": "Nước giải khát có ga Thomas Henry GrapeFruit Lemonade",
+    "productNumber": "60/TRA-SAS/2018",
+    "productDate": "2018-04-23"
+  },
+  {
+    "id": 34,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "63/TRA-SAS/2018",
+    "productDate": "2018-05-17"
+  },
+  {
+    "id": 35,
+    "productName": "Sốt hương socola trắng ",
+    "productNumber": "65/TRA-SAS/2018",
+    "productDate": "2018-05-28"
+  },
+  {
+    "id": 36,
+    "productName": "Vụn kẹo Nam Việt Quất ",
+    "productNumber": "68/TRA-SAS/2018",
+    "productDate": "2018-05-28"
+  },
+  {
+    "id": 37,
+    "productName": "Vụn gạo ",
+    "productNumber": "72/TRA-SAS/2018",
+    "productDate": "2018-05-28"
+  },
+  {
+    "id": 38,
+    "productName": "Si rô hương Gừng ",
+    "productNumber": "73/TRA-SAS/2018",
+    "productDate": "2018-05-28"
+  },
+  {
+    "id": 39,
+    "productName": "Sốt đường nâu ",
+    "productNumber": "74/TRA-SAS/2018",
+    "productDate": "2018-05-28"
+  },
+  {
+    "id": 40,
+    "productName": "Bột đường quế gừng ",
+    "productNumber": "77/TRA-SAS/2018",
+    "productDate": "2018-05-28"
+  },
+  {
+    "id": 41,
+    "productName": " Si rô Amarena Fabbri Mixybar Amarena Wild Cherry",
+    "productNumber": "81/TRA-SAS/2018",
+    "productDate": "2018-05-31"
+  },
+  {
+    "id": 42,
+    "productName": "Nước uống có ga - The Garden Eden Adam Apple Sparkling Apple Juice",
+    "productNumber": "85/TRA-SAS/2018",
+    "productDate": "2018-05-31"
+  },
+  {
+    "id": 43,
+    "productName": "Nước uống có ga - The Garden Eden Eve Apple Sparkling Apple Juice",
+    "productNumber": "86/TRA-SAS/2018",
+    "productDate": "2018-05-31"
+  },
+  {
+    "id": 44,
+    "productName": "Nước Trái Cây Lên Men - Rekorderlig Cider Wild Berries",
+    "productNumber": "87/TRA-SAS/2018",
+    "productDate": "2018-06-06"
+  },
+  {
+    "id": 45,
+    "productName": "Nước trái cây lên men - Rekorderlig Cider Strawberry-Lime",
+    "productNumber": "88/TRA-SAS/2018",
+    "productDate": "2018-06-06"
+  },
+  {
+    "id": 46,
+    "productName": "Nước trái cây lên men - Rekorderlig Premium Passionfruit cider",
+    "productNumber": "89/TRA-SAS/2018",
+    "productDate": "2018-06-06"
+  },
+  {
+    "id": 47,
+    "productName": "Nước trái cây lên men - Rekorderlig Premium Mango-Raspberry Cider",
+    "productNumber": "90/TRA-SAS/2018",
+    "productDate": "2018-06-06"
+  },
+  {
+    "id": 48,
+    "productName": "Nước trái cây lên men - Savana Apple Cider Dry",
+    "productNumber": "91/TRA-SAS/2018",
+    "productDate": "2018-06-06"
+  },
+  {
+    "id": 49,
+    "productName": "Si rô Hương Anh Đào ",
+    "productNumber": "108/TRA-SAS/2018",
+    "productDate": "2018-06-11"
+  },
+  {
+    "id": 50,
+    "productName": "Anh đào ngâm si rô ",
+    "productNumber": "109/TRA-SAS/2018",
+    "productDate": "2018-06-11"
+  },
+  {
+    "id": 51,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "93/TRA-SAS/2018",
+    "productDate": "2018-05-17"
+  },
+  {
+    "id": 52,
+    "productName": "Nước trái cây lên men Vola Twizt Lime & Orange",
+    "productNumber": "138/TRA-SAS/2018",
+    "productDate": "2018-06-25"
+  },
+  {
+    "id": 53,
+    "productName": "Nước trái cây lên men Vola Twizt  Mulberry & Bluberry",
+    "productNumber": "139/TRA-SAS/2018",
+    "productDate": "2018-06-25"
+  },
+  {
+    "id": 54,
+    "productName": "Nước trái cây lên men Vola  Twizt Strawberry & Lychee",
+    "productNumber": "140/TRA-SAS/2018",
+    "productDate": "2018-06-25"
+  },
+  {
+    "id": 55,
+    "productName": "Nước trái cây lên men Vola Twizt Lemon & Orange",
+    "productNumber": "141/TRA-SAS/2018",
+    "productDate": "2018-07-16"
+  },
+  {
+    "id": 56,
+    "productName": "Cà phê hạt đã rang PERU SAN IGNACIO",
+    "productNumber": "116/TRA-SAS/2018",
+    "productDate": "2018-06-21"
+  },
+  {
+    "id": 57,
+    "productName": "Cà phê hạt đã rang RWANDA KANZU",
+    "productNumber": "117/TRA-SAS/2018",
+    "productDate": "2018-06-25"
+  },
+  {
+    "id": 58,
+    "productName": "Cà phê hạt đã rang Colombia Pedregal",
+    "productNumber": "120/TRA-SAS/2018",
+    "productDate": "2018-03-07"
+  },
+  {
+    "id": 59,
+    "productName": "Ly nhựa PET",
+    "productNumber": "123/TRA-SAS/2018",
+    "productDate": "2018-06-26"
+  },
+  {
+    "id": 60,
+    "productName": "Bột Trà Xanh",
+    "productNumber": "127/TRA-SAS/2018",
+    "productDate": "2018-07-03"
+  },
+  {
+    "id": 61,
+    "productName": "Khoai tây miếng chiên, đông lạnh",
+    "productNumber": "128/TRA-SAS/2018",
+    "productDate": "2018-07-03"
+  },
+  {
+    "id": 62,
+    "productName": "Cà phê rang",
+    "productNumber": "126/TRA-SAS/2018",
+    "productDate": "2018-07-03"
+  },
+  {
+    "id": 63,
+    "productName": "Dưa chuột muối",
+    "productNumber": "129/TRA-SAS/2018",
+    "productDate": "2018-07-03"
+  },
+  {
+    "id": 64,
+    "productName": "Khoai tây chiên, cắt thanh, đông lạnh",
+    "productNumber": "130/TRA-SAS/2018",
+    "productDate": "2018-07-03"
+  },
+  {
+    "id": 65,
+    "productName": "Cà phê hạt đã rang Bol Sol De Manana",
+    "productNumber": "131/TRA-SAS/2018",
+    "productDate": "2018-07-03"
+  },
+  {
+    "id": 66,
+    "productName": "Ly thủy tinh BV",
+    "productNumber": "133/TRA-SAS/2018",
+    "productDate": "2018-07-10"
+  },
+  {
+    "id": 67,
+    "productName": "Ly Thủy Tinh GF",
+    "productNumber": "135/TRA-SAS/2018",
+    "productDate": "2018-07-10"
+  },
+  {
+    "id": 68,
+    "productName": "Sốt lê ",
+    "productNumber": "138/TRA-SAS/2018",
+    "productDate": "2020-07-23"
+  },
+  {
+    "id": 69,
+    "productName": "Sốt hạt dẻ ",
+    "productNumber": "139/TRA-SAS/2018",
+    "productDate": "2020-07-23"
+  },
+  {
+    "id": 70,
+    "productName": "Bột Trà Xanh Yến Mạch ",
+    "productNumber": "140/TRA-SAS/2018",
+    "productDate": "2020-07-23"
+  },
+  {
+    "id": 71,
+    "productName": "Vụn kẹo vị hạt dẻ dâu tây ",
+    "productNumber": "141/TRA-SAS/2018",
+    "productDate": "2020-07-23"
+  },
+  {
+    "id": 72,
+    "productName": "Vụn bánh granola ",
+    "productNumber": "142/TRA-SAS/2018",
+    "productDate": "2020-07-23"
+  },
+  {
+    "id": 73,
+    "productName": "Nước giải khát có ga Thomas Henry Spicy Ginger",
+    "productNumber": "144/TRA-SAS/2018",
+    "productDate": "2018-07-19"
+  },
+  {
+    "id": 74,
+    "productName": "Nước giải khát có ga Thomas Henry Elderflower Tonic",
+    "productNumber": "145/TRA-SAS/2018",
+    "productDate": "2018-07-19"
+  },
+  {
+    "id": 75,
+    "productName": "Nước giải khát có ga Thomas Henry Tonic Water ",
+    "productNumber": "146/TRA-SAS/2018",
+    "productDate": "2018-07-19"
+  },
+  {
+    "id": 76,
+    "productName": "Hành băm Dehydrated Onions",
+    "productNumber": "149/TRA-SAS/2018",
+    "productDate": "2018-07-23"
+  },
+  {
+    "id": 77,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "150/TRA-SAS/2018",
+    "productDate": "2018-07-26"
+  },
+  {
+    "id": 78,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "151/TRA-SAS/2018",
+    "productDate": "2018-07-26"
+  },
+  {
+    "id": 79,
+    "productName": "Chậu nhỏ Bằng Thủy Tinh",
+    "productNumber": "152/TRA-SAS/2018",
+    "productDate": "2018-07-26"
+  },
+  {
+    "id": 80,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "153/TRA-SAS/2018",
+    "productDate": "2018-08-27"
+  },
+  {
+    "id": 81,
+    "productName": "Cà phê hạt đã rang Tanzania MT Meru",
+    "productNumber": "155/TRA-SAS/2018",
+    "productDate": "2018-08-07"
+  },
+  {
+    "id": 82,
+    "productName": "Cà phê hạt đã rang Autumn Blend",
+    "productNumber": "156/TRA-SAS/2018",
+    "productDate": "2020-08-01"
+  },
+  {
+    "id": 83,
+    "productName": "Bình nước bằng nhựa",
+    "productNumber": "157/TRA-SAS/2018",
+    "productDate": "2018-08-07"
+  },
+  {
+    "id": 84,
+    "productName": "Sốt sầu riêng - Durinan Fruit Topping",
+    "productNumber": "158/TRA-SAS/2018",
+    "productDate": "2018-08-07"
+  },
+  {
+    "id": 85,
+    "productName": "Nước mơ Nhật Bản lên men có ga- Hoshi Original",
+    "productNumber": "160/TRA-SAS/2018",
+    "productDate": "2018-08-20"
+  },
+  {
+    "id": 86,
+    "productName": "Nước mơ Nhật Bản lên men có ga - Hoshi Sakura",
+    "productNumber": "161/TRA-SAS/2018",
+    "productDate": "2018-08-20"
+  },
+  {
+    "id": 87,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "181/TRA-SAS/2018",
+    "productDate": "2018-09-01"
+  },
+  {
+    "id": 88,
+    "productName": "Cà phê hạt đã rang Cold Brew ",
+    "productNumber": "191/TRA-SAS/2018",
+    "productDate": "2020-09-04"
+  },
+  {
+    "id": 89,
+    "productName": "Bánh Nướng Xốp- English Muffin",
+    "productNumber": "192/TRA-SAS/2018",
+    "productDate": "2018-09-11"
+  },
+  {
+    "id": 90,
+    "productName": "Cháo bột dinh dưỡng - Bellamy’s Organic Baby Porridge 125g packet",
+    "productNumber": "193/TRA-SAS/2018",
+    "productDate": "2018-09-10"
+  },
+  {
+    "id": 91,
+    "productName": "Cháo bột dinh dưỡng - Bellamy’s Organic Vanilla Rice Custard 125g packet",
+    "productNumber": "194/TRA-SAS/2018",
+    "productDate": "2018-09-14"
+  },
+  {
+    "id": 92,
+    "productName": "Nui hình sao từ gạo nâu hữu cơ - Bellamy's Organic Brown Rice Pasta Stars 200g",
+    "productNumber": "195/TRA-SAS/2018",
+    "productDate": "2018-09-10"
+  },
+  {
+    "id": 93,
+    "productName": "Nui từ lúa mì spenta - Bellamy's Organic Spelt Macaroni 200g box",
+    "productNumber": "196/TRA-SAS/2018",
+    "productDate": "2018-08-10"
+  },
+  {
+    "id": 94,
+    "productName": "Nui hình chữ - Bellamy's Organic Vegie Pasta Alphabets 200g box",
+    "productNumber": "197/TRA-SAS/2018",
+    "productDate": "2018-09-14"
+  },
+  {
+    "id": 95,
+    "productName": "Cháo hữu cơ cho trẻ - Bellamy's Organic Baby Rice 125g packet",
+    "productNumber": "198/TRA-SAS/2018",
+    "productDate": "2018-09-10"
+  },
+  {
+    "id": 96,
+    "productName": "Bánh  ăn dặm - Bellamy's Organic Toothiepegs 100g carton",
+    "productNumber": "199/TRA-SAS/2018",
+    "productDate": "2018-09-14"
+  },
+  {
+    "id": 97,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "205/TRA-SAS/2018",
+    "productDate": "2018-09-13"
+  },
+  {
+    "id": 98,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "206/TRA-SAS/2018",
+    "productDate": "2018-09-13"
+  },
+  {
+    "id": 99,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "207/TRA-SAS/2018",
+    "productDate": "2018-09-13"
+  },
+  {
+    "id": 100,
+    "productName": "Ly inox",
+    "productNumber": "208/TRA-SAS/2018",
+    "productDate": "2018-09-26"
+  },
+  {
+    "id": 101,
+    "productName": "Bình giữ nhiệt bằng inox",
+    "productNumber": "209/TRA-SAS/2018",
+    "productDate": "2018-09-26"
+  },
+  {
+    "id": 102,
+    "productName": "Cà phê hạt đã rang Uganda Sipi Falls",
+    "productNumber": "210/TRA-SAS/2018",
+    "productDate": "2020-10-29"
+  },
+  {
+    "id": 103,
+    "productName": "Cà phê hạt đã rang Tanzania Muriba",
+    "productNumber": "211/TRA-SAS/2018",
+    "productDate": "2020-10-29"
+  },
+  {
+    "id": 104,
+    "productName": "Bình nước bằng nhựa",
+    "productNumber": "214/TRA-SAS/2018",
+    "productDate": "2018-09-18"
+  },
+  {
+    "id": 105,
+    "productName": "Bình giữ nhiệt bằng inox",
+    "productNumber": "215/TRA-SAS/2018",
+    "productDate": "2018-09-18"
+  },
+  {
+    "id": 106,
+    "productName": "Ly thủy tinh",
+    "productNumber": "216/TRA-SAS/2018",
+    "productDate": "2020-09-26"
+  },
+  {
+    "id": 107,
+    "productName": "Cà phê hạt đã rang Christmas Blonde Roast ",
+    "productNumber": "238/TRA-SAS/2018",
+    "productDate": "2018-09-25"
+  },
+  {
+    "id": 108,
+    "productName": "Cà phê hạt đã rang Christmas Espresso Roast",
+    "productNumber": "239/TRA-SAS/2018",
+    "productDate": "2018-09-25"
+  },
+  {
+    "id": 109,
+    "productName": "Cà phê hạt đã rang Microblend",
+    "productNumber": "264/TRA-SAS/2018",
+    "productDate": "2020-10-02"
+  },
+  {
+    "id": 110,
+    "productName": "Cà phê hạt đã rang Christmas blend",
+    "productNumber": "263/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 111,
+    "productName": "Cà phê hạt đã rang Spring Season Blend",
+    "productNumber": "341/TRA-SAS/2018",
+    "productDate": "2020-12-10"
+  },
+  {
+    "id": 112,
+    "productName": "Cà phê hạt đã rang VIETNAM DA LAT",
+    "productNumber": "318/TRA-SAS/2018",
+    "productDate": "2020-11-12"
+  },
+  {
+    "id": 113,
+    "productName": "Chanh sấy khô ",
+    "productNumber": "270/TRA-SAS/2018",
+    "productDate": "2018-10-18"
+  },
+  {
+    "id": 114,
+    "productName": "Sốt hương cà phê",
+    "productNumber": "271/TRA-SAS/2018",
+    "productDate": "2018-10-18"
+  },
+  {
+    "id": 115,
+    "productName": "Sốt đậu đỏ ",
+    "productNumber": "272/TRA-SAS/2018",
+    "productDate": "2018-10-18"
+  },
+  {
+    "id": 116,
+    "productName": "Vụn ngũ cốc và vụn nam việt quất ",
+    "productNumber": "273/TRA-SAS/2018",
+    "productDate": "2018-10-18"
+  },
+  {
+    "id": 117,
+    "productName": "Sốt hương kẹo bơ đường ",
+    "productNumber": "274/TRA-SAS/2018",
+    "productDate": "2018-10-18"
+  },
+  {
+    "id": 118,
+    "productName": "Kẹo Lollypop Mini ",
+    "productNumber": "245/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 119,
+    "productName": "Cà phê hạt đã rang Colombia",
+    "productNumber": "246/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 120,
+    "productName": "Cà phê hạt đã rang Guatemala Antigua",
+    "productNumber": "247/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 121,
+    "productName": "Cà phê hạt đã rang Kenya ",
+    "productNumber": "248/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 122,
+    "productName": "Cà phê hạt đã rang Sumatra ",
+    "productNumber": "249/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 123,
+    "productName": "Cà phê hạt đã rang Verona",
+    "productNumber": "250/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 124,
+    "productName": "Cà phê hạt đã rang House Blend",
+    "productNumber": "251/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 125,
+    "productName": "Cà phê hạt đã rang Espresso",
+    "productNumber": "252/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 126,
+    "productName": "Cà phê hạt đã rang Italian ",
+    "productNumber": "253/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 127,
+    "productName": "Cà phê hạt đã rang Komodo Dragon",
+    "productNumber": "254/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 128,
+    "productName": "Cà phê hạt đã rang Willow Blend ",
+    "productNumber": "255/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 129,
+    "productName": "Cà phê hạt đã rang Veranda",
+    "productNumber": "256/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 130,
+    "productName": "Cà phê hạt đã rang French Roast",
+    "productNumber": "257/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 131,
+    "productName": "Cà phê hạt đã rang Decaf Espresso",
+    "productNumber": "258/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 132,
+    "productName": "Cà phê hạt đã rang Iced Coffee",
+    "productNumber": "259/TRA-SAS/2018",
+    "productDate": "2018-10-02"
+  },
+  {
+    "id": 133,
+    "productName": "Cà phê hạt đã rang Thanksgiving",
+    "productNumber": "260/TRA-SAS/2018",
+    "productDate": "2018-10-23"
+  },
+  {
+    "id": 134,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "261/TRA-SAS/2018",
+    "productDate": "2018-10-04"
+  },
+  {
+    "id": 135,
+    "productName": "Ly thủy tinh",
+    "productNumber": "261/TRA-SAS/2018",
+    "productDate": "2018-10-04"
+  },
+  {
+    "id": 136,
+    "productName": "Ly nhựa PP",
+    "productNumber": "267/TRA-SAS/2018",
+    "productDate": "2018-10-04"
+  },
+  {
+    "id": 137,
+    "productName": "Nắp nhựa PP",
+    "productNumber": "268/TRA-SAS/2018",
+    "productDate": "2018-10-04"
+  },
+  {
+    "id": 138,
+    "productName": "Ly nhựa ",
+    "productNumber": "269/TRA-SAS/2018",
+    "productDate": "2018-10-04"
+  },
+  {
+    "id": 139,
+    "productName": "Cà phê hạt đã rang Anniversary Blend",
+    "productNumber": "265/TRA-SAS/2018",
+    "productDate": "2018-08-01"
+  },
+  {
+    "id": 140,
+    "productName": "Cà phê hạt đã rang Autumn Blend",
+    "productNumber": "266/TRA-SAS/2018",
+    "productDate": "2018-08-01"
+  },
+  {
+    "id": 141,
+    "productName": "Trà đen Ground Black Tea",
+    "productNumber": "281/TRA-SAS/2018",
+    "productDate": "2018-10-22"
+  },
+  {
+    "id": 142,
+    "productName": "Khoai tây xoắn chiên, đông lạnh",
+    "productNumber": "282/TRA-SAS/2018",
+    "productDate": "2018-10-25"
+  },
+  {
+    "id": 143,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "283/TRA-SAS/2018",
+    "productDate": "2018-10-24"
+  },
+  {
+    "id": 144,
+    "productName": "Rươu Noilly Prat Original Dry Vermouth ",
+    "productNumber": "284/TRA-SAS/2018",
+    "productDate": "2018-10-24"
+  },
+  {
+    "id": 145,
+    "productName": "Cà phê hạt đã rang Honduras Marcala",
+    "productNumber": "285/TRA-SAS/2018",
+    "productDate": "2018-10-23"
+  },
+  {
+    "id": 146,
+    "productName": "Cà phê hạt đã rang El Salvador Ahuachapan",
+    "productNumber": "286/TRA-SAS/2018",
+    "productDate": "2018-10-23"
+  },
+  {
+    "id": 147,
+    "productName": "Nguyên liệu thực phẩm: Xốt thịt nướng BBQ -Barbeque Sauce",
+    "productNumber": "316/TRA-SAS/2018",
+    "productDate": "2018-10-30"
+  },
+  {
+    "id": 148,
+    "productName": "Nguyên liệu thực phẩm: Xốt chua ngọt - Sweet's N Sour Sauce",
+    "productNumber": "317/TRA-SAS/2018",
+    "productDate": "2018-10-30"
+  },
+  {
+    "id": 149,
+    "productName": "Bộ ấm tách trà bằng sứ",
+    "productNumber": "311/TRA-SAS/2018",
+    "productDate": "2018-11-07"
+  },
+  {
+    "id": 150,
+    "productName": "Bát sứ",
+    "productNumber": "312/TRA-SAS/2018",
+    "productDate": "2018-11-07"
+  },
+  {
+    "id": 151,
+    "productName": "Hũ sứ",
+    "productNumber": "313/TRA-SAS/2018",
+    "productDate": "2018-11-07"
+  },
+  {
+    "id": 152,
+    "productName": "Giấy gói thực phẩm",
+    "productNumber": "323/TRA-SAS/2018",
+    "productDate": "2018-11-13"
+  },
+  {
+    "id": 153,
+    "productName": "Tô và nắp tô bằng nhựa đựng thực phẩm",
+    "productNumber": "324/TRA-SAS/2018",
+    "productDate": "2018-11-13"
+  },
+  {
+    "id": 154,
+    "productName": "Khay đựng đá",
+    "productNumber": "325/TRA-SAS/2018",
+    "productDate": "2018-11-26"
+  },
+  {
+    "id": 155,
+    "productName": "Khoai tây chiên cắt thanh đông lạnh",
+    "productNumber": "326/TRA-SAS/2018",
+    "productDate": "2018-11-19"
+  },
+  {
+    "id": 156,
+    "productName": "Giấy gói",
+    "productNumber": "327/TRA-SAS/2018",
+    "productDate": "2018-11-19"
+  },
+  {
+    "id": 157,
+    "productName": "Ca inox",
+    "productNumber": "328/TRA-SAS/2018",
+    "productDate": "2018-11-19"
+  },
+  {
+    "id": 158,
+    "productName": "Bột trà xanh",
+    "productNumber": "329/TRA-SAS/2018",
+    "productDate": "2018-11-19"
+  },
+  {
+    "id": 159,
+    "productName": "Đồ uống có cồn Alcopop Breezer Orange",
+    "productNumber": "333/TRA-SAS/2018",
+    "productDate": "2018-11-26"
+  },
+  {
+    "id": 160,
+    "productName": "Đồ uống có cồn Alcopop Breezer Blueberry",
+    "productNumber": "334/TRA-SAS/2018",
+    "productDate": "2018-11-26"
+  },
+  {
+    "id": 161,
+    "productName": "Sốt hỗn hợp quả mọng ",
+    "productNumber": "335/TRA-SAS/2018",
+    "productDate": "2018-12-10"
+  },
+  {
+    "id": 162,
+    "productName": "Thạch Cam Vàng ",
+    "productNumber": "336/TRA-SAS/2018",
+    "productDate": "2018-12-10"
+  },
+  {
+    "id": 163,
+    "productName": "Sốt hương mật ong cam vàng ",
+    "productNumber": "337/TRA-SAS/2018",
+    "productDate": "2018-12-10"
+  },
+  {
+    "id": 164,
+    "productName": "Sốt caramel đen",
+    "productNumber": "338/TRA-SAS/2018",
+    "productDate": "2018-12-10"
+  },
+  {
+    "id": 165,
+    "productName": "Sốt ca cao đen ",
+    "productNumber": "339/TRA-SAS/2018",
+    "productDate": "2018-12-18"
+  },
+  {
+    "id": 166,
+    "productName": "Cà phê hạt đã rang Micro Blend No. 11",
+    "productNumber": "340/TRA-SAS/2018",
+    "productDate": "2018-12-10"
+  },
+  {
+    "id": 167,
+    "productName": "Khoai tây miếng chiên, đông lạnh",
+    "productNumber": "343/TRA-SAS/2018",
+    "productDate": "2018-12-13"
+  },
+  {
+    "id": 168,
+    "productName": "Hỗn hợp sốt cà phê và thạch thủy tinh ",
+    "productNumber": "345/TRA-SAS/2018",
+    "productDate": "2018-12-24"
+  },
+  {
+    "id": 169,
+    "productName": "Si rô hương vải ",
+    "productNumber": "346/TRA-SAS/2018",
+    "productDate": "2018-12-24"
+  },
+  {
+    "id": 170,
+    "productName": "Hỗn hợp thạch nha đam và nước ép vải",
+    "productNumber": "347/TRA-SAS/2018",
+    "productDate": "2018-12-24"
+  },
+  {
+    "id": 171,
+    "productName": "Nước ép dưa hấu và hạt chia ",
+    "productNumber": "348/TRA-SAS/2018",
+    "productDate": "2018-12-24"
+  },
+  {
+    "id": 172,
+    "productName": "Ly Nhựa",
+    "productNumber": "351/TRA-SAS/2018",
+    "productDate": "2018-12-20"
+  },
+  {
+    "id": 173,
+    "productName": "Bình giữ nhiệt bằng inox ",
+    "productNumber": "349/TRA-SAS/2018",
+    "productDate": "2018-12-20"
+  },
+  {
+    "id": 174,
+    "productName": "Ly Giấy",
+    "productNumber": "355/TRA-SAS/2018",
+    "productDate": "2019-01-02"
+  },
+  {
+    "id": 175,
+    "productName": "Cà phê hạt đã rang Kati Kati Blend",
+    "productNumber": "352/TRA-SAS/2018",
+    "productDate": "2019-01-14"
+  },
+  {
+    "id": 176,
+    "productName": "Cà phê hạt đã rang Kopelani Blend",
+    "productNumber": "353/TRA-SAS/2018",
+    "productDate": "2019-01-14"
+  },
+  {
+    "id": 177,
+    "productName": "Bình Nước Bằng Nhựa",
+    "productNumber": "357/TRA-SAS/2018",
+    "productDate": "2019-01-10"
+  },
+  {
+    "id": 178,
+    "productName": "Ly inox",
+    "productNumber": "356/TRA-SAS/2018",
+    "productDate": "2019-01-07"
+  },
+  {
+    "id": 179,
+    "productName": "Bình Giữ Nhiệt Bằng Nhựa",
+    "productNumber": "354/TRA-SAS/2018",
+    "productDate": "2018-12-10"
+  },
+  {
+    "id": 180,
+    "productName": "Cà phê hạt đã rang Guatemala La Colina",
+    "productNumber": "358/TRA-SAS/2018",
+    "productDate": "2019-01-14"
+  },
+  {
+    "id": 181,
+    "productName": "Cà phê hạt đã rang Ethiopia Haile Estate",
+    "productNumber": "359/TRA-SAS/2018",
+    "productDate": "2019-01-14"
+  },
+  {
+    "id": 182,
+    "productName": "Bình Giữ Nhiệt Bằng Nhựa",
+    "productNumber": "363/TRA-SAS/2018",
+    "productDate": "2019-01-16"
+  },
+  {
+    "id": 183,
+    "productName": "Hộp Giấy ",
+    "productNumber": "364/TRA-SAS/2019",
+    "productDate": "2019-01-22"
+  },
+  {
+    "id": 184,
+    "productName": "Bình Giữ Nhiệt Bằng Nhựa",
+    "productNumber": "365/TRA-SAS/2019",
+    "productDate": "2019-01-25"
+  },
+  {
+    "id": 185,
+    "productName": "Bình Giữ Nhiệt Bằng Nhựa",
+    "productNumber": "366/TRA-SAS/2019",
+    "productDate": "2019-01-25"
+  },
+  {
+    "id": 186,
+    "productName": "Bình giữ nhiệt bằng inox ",
+    "productNumber": "368/TRA-SAS/2019",
+    "productDate": "2019-01-25"
+  },
+  {
+    "id": 187,
+    "productName": "Bột Trà Xanh",
+    "productNumber": "369/TRA-SAS/2019",
+    "productDate": "2019-01-31"
+  },
+  {
+    "id": 188,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "370/TRA-SAS/2019",
+    "productDate": "2019-02-13"
+  },
+  {
+    "id": 189,
+    "productName": "Hộp Giấy",
+    "productNumber": "371/TRA-SAS/2019",
+    "productDate": "2019-02-18"
+  },
+  {
+    "id": 190,
+    "productName": "Lọ nhựa ",
+    "productNumber": "372/TRA-SAS/2019",
+    "productDate": "2019-02-14"
+  },
+  {
+    "id": 191,
+    "productName": "Dinitrogen monoxyde làm lạnh kem",
+    "productNumber": "373/TRA-SAS/2019",
+    "productDate": "2019-02-18"
+  },
+  {
+    "id": 192,
+    "productName": "Ly Giấy",
+    "productNumber": "380/TRA-SAS/2019",
+    "productDate": "2019-02-18"
+  },
+  {
+    "id": 193,
+    "productName": "Nước chanh (Premium Lemonade)",
+    "productNumber": "381/TRA-SAS/2019",
+    "productDate": "2019-02-22"
+  },
+  {
+    "id": 194,
+    "productName": "Nước trái cây xoài- Mango Passionfruit Frappuchino Juice Blend ",
+    "productNumber": "382/TRA-SAS/2019",
+    "productDate": "2019-02-22"
+  },
+  {
+    "id": 195,
+    "productName": "Ly Nhựa",
+    "productNumber": "383/TRA-SAS/2019",
+    "productDate": "2019-02-22"
+  },
+  {
+    "id": 196,
+    "productName": "Bột trà xanh có đường ",
+    "productNumber": "384/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 197,
+    "productName": "Si rô Classic ",
+    "productNumber": "385/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 198,
+    "productName": "Bột Sô cô la ",
+    "productNumber": "386/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 199,
+    "productName": "Trà ICED BLACK TEA",
+    "productNumber": "387/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 200,
+    "productName": "Trà ICED GREEN TEA",
+    "productNumber": "388/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 201,
+    "productName": "Trà PASSION ICED TEA",
+    "productNumber": "389/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 202,
+    "productName": "Trà túi lọc TEAVANA ENGLISH BREAKFAST BLACK TEA",
+    "productNumber": "390/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 203,
+    "productName": "Trà túi lọc TEAVANA EMPEROR'S CLOUDS & MIST GREEN TEA ",
+    "productNumber": "391/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 204,
+    "productName": "Trà túi lọc TEAVANA MINT CITRUS FLAVOURED GREEN TEA BLEND",
+    "productNumber": "392/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 205,
+    "productName": "Trà túi lọc TEAVANA EARL GREY BLACK TEA BLEND",
+    "productNumber": "393/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 206,
+    "productName": "Trà túi lọc Teavana Hibiscus Flavoured Herbal Blend",
+    "productNumber": "394/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 207,
+    "productName": "Trà túi lọc TEAVANA MINT BLEND HERBAL BLEND",
+    "productNumber": "395/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 208,
+    "productName": "Trà túi lọc TEAVANA YOUTHBERRY WHITE TEA BLEND",
+    "productNumber": "396/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 209,
+    "productName": "Trà túi lọc TEAVANA CHAI SPICED BLACK TEA BLEND",
+    "productNumber": "397/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 210,
+    "productName": "Trà túi lọc TEAVANA CHAMOMILE HERBAL BLEND",
+    "productNumber": "398/TRA-SAS/2019",
+    "productDate": "2019-02-27"
+  },
+  {
+    "id": 211,
+    "productName": "Ấm đun nước",
+    "productNumber": "399/TRA-SAS/2019",
+    "productDate": "2019-02-22"
+  },
+  {
+    "id": 212,
+    "productName": "Cà phê rang đã xay Cold Brew coffee",
+    "productNumber": "400/TRA-SAS/2019",
+    "productDate": "2019-02-26"
+  },
+  {
+    "id": 213,
+    "productName": "Ly nhựa và nắp nhựa",
+    "productNumber": "401/TRA-SAS/2019",
+    "productDate": "2019-02-25"
+  },
+  {
+    "id": 214,
+    "productName": "Ly silicone",
+    "productNumber": "402/TRA-SAS/2019",
+    "productDate": "2019-02-25"
+  },
+  {
+    "id": 215,
+    "productName": "Cà phê hạt đã rang GUA SANTA CECILIA",
+    "productNumber": "404/TRA-SAS/2019",
+    "productDate": "2019-03-06"
+  },
+  {
+    "id": 216,
+    "productName": "Cà phê hạt đã rang RWANDA HINGAKAWA",
+    "productNumber": "405/TRA-SAS/2019",
+    "productDate": "2019-03-06"
+  },
+  {
+    "id": 217,
+    "productName": "Cà phê hạt đã rang KENYA RUNGETO ",
+    "productNumber": "406/TRA-SAS/2019",
+    "productDate": "2019-03-06"
+  },
+  {
+    "id": 218,
+    "productName": "Bia Lobkowicz Ale Premium",
+    "productNumber": "407/TRA-SAS/2019",
+    "productDate": "2019-04-03"
+  },
+  {
+    "id": 219,
+    "productName": "Nắp nhựa",
+    "productNumber": "408/TRA-SAS/2019",
+    "productDate": "2019-03-05"
+  },
+  {
+    "id": 220,
+    "productName": "Trà túi lọc TEAVANA ENGLISH BREAKFAST BLACK TEA",
+    "productNumber": "410/TRA-SAS/2019",
+    "productDate": "2019-03-14"
+  },
+  {
+    "id": 221,
+    "productName": "Trà túi lọc TEAVANA EMPEROR'S CLOUDS & MIST GREEN TEA ",
+    "productNumber": "409/TRA-SAS/2019",
+    "productDate": "2019-03-14"
+  },
+  {
+    "id": 222,
+    "productName": "Ly Thủy Tinh",
+    "productNumber": "413/TRA-SAS/2019",
+    "productDate": "2019-03-14"
+  },
+  {
+    "id": 223,
+    "productName": "Cốc Gốm",
+    "productNumber": "414/TRA-SAS/2019",
+    "productDate": "2019-03-27"
+  },
+  {
+    "id": 224,
+    "productName": "Nước trái cây Raspberry Blackcurrant ",
+    "productNumber": "416/TRA-SAS/2019",
+    "productDate": "2019-03-25"
+  },
+  {
+    "id": 225,
+    "productName": "Bánh táo nướng - FRIED APPLE PIE",
+    "productNumber": "417/TRA-SAS/2019",
+    "productDate": "2019-04-01"
+  },
+  {
+    "id": 226,
+    "productName": "Bánh nướng xốp - English Muffin ",
+    "productNumber": "418/TRA-SAS/2019",
+    "productDate": "2019-03-26"
+  },
+  {
+    "id": 227,
+    "productName": "Bánh ngọt hình nón - McDonald's Cake Cone",
+    "productNumber": "419/TRA-SAS/2019",
+    "productDate": "2019-04-03"
+  },
+  {
+    "id": 228,
+    "productName": "Xốt dâu",
+    "productNumber": "420/TRA-SAS/2019",
+    "productDate": "2019-04-05"
+  },
+  {
+    "id": 229,
+    "productName": "Hộp giấy",
+    "productNumber": "421/TRA-SAS/2019",
+    "productDate": "2019-03-26"
+  },
+  {
+    "id": 230,
+    "productName": "Hộp giấy  ",
+    "productNumber": "422/TRA-SAS/2019",
+    "productDate": "2019-03-26"
+  },
+  {
+    "id": 231,
+    "productName": "Hộp giấy  ",
+    "productNumber": "423/TRA-SAS/2019",
+    "productDate": "2019-03-26"
+  },
+  {
+    "id": 232,
+    "productName": "Vụn bánh quy OREO chocolate ",
+    "productNumber": "424/TRA-SAS/2019",
+    "productDate": "2019-04-05"
+  },
+  {
+    "id": 233,
+    "productName": "Dầu bơ thực vật hỗn hợp ",
+    "productNumber": "425/TRA-SAS/2019",
+    "productDate": "2019-03-26"
+  },
+  {
+    "id": 234,
+    "productName": "Nắp khay đựng thực phẩm bằng giấy",
+    "productNumber": "426/TRA-SAS/2019",
+    "productDate": "2019-03-26"
+  },
+  {
+    "id": 235,
+    "productName": "Mù tạt- Mustard Pouch ",
+    "productNumber": "427/TRA-SAS/2019",
+    "productDate": "2019-04-05"
+  },
+  {
+    "id": 236,
+    "productName": "Xốt chocolate -  Hot Fudge Topping",
+    "productNumber": "428/TRA-SAS/2019",
+    "productDate": "2019-04-05"
+  },
+  {
+    "id": 237,
+    "productName": "Muối tiêu",
+    "productNumber": "429/TRA-SAS/2019",
+    "productDate": "2019-03-26"
+  },
+  {
+    "id": 238,
+    "productName": "Ly Nhựa",
+    "productNumber": "430/TRA-SAS/2019",
+    "productDate": "2019-03-20"
+  },
+  {
+    "id": 239,
+    "productName": "Sốt hương mocha, socola trắng ",
+    "productNumber": "431/TRA-SAS/2019",
+    "productDate": "2019-03-27"
+  },
+  {
+    "id": 240,
+    "productName": "Ly nhựa PP",
+    "productNumber": "432/TRA-SAS/2019",
+    "productDate": "2019-04-03"
+  },
+  {
+    "id": 241,
+    "productName": "Ly nhựa PET",
+    "productNumber": "433/TRA-SAS/2019",
+    "productDate": "2019-04-03"
+  },
+  {
+    "id": 242,
+    "productName": "Đĩa đựng thực phẩm bằng nhựa PS ",
+    "productNumber": "434/TRA-SAS/2019",
+    "productDate": "2019-04-03"
+  },
+  {
+    "id": 243,
+    "productName": "Chất hỗ trợ chế biến ( Bột lọc dùng để lọc dầu ăn): Magnesol XL Fiter Kit",
+    "productNumber": "435/TRA-SAS/2019",
+    "productDate": "2019-04-03"
+  },
+  {
+    "id": 244,
+    "productName": "Khay giấy",
+    "productNumber": "436/TRA-SAS/2019",
+    "productDate": "2019-04-03"
+  },
+  {
+    "id": 245,
+    "productName": "Tiêu đen gói ",
+    "productNumber": "437/TRA-SAS/2019",
+    "productDate": "2019-04-03"
+  },
+  {
+    "id": 246,
+    "productName": "Gia vị muối gói ",
+    "productNumber": "438/TRA-SAS/2019",
+    "productDate": "2019-04-03"
+  },
+  {
+    "id": 247,
+    "productName": "Gia vị muối",
+    "productNumber": "439/TRA-SAS/2019",
+    "productDate": "2019-04-03"
+  },
+  {
+    "id": 248,
+    "productName": "Hộp giấy",
+    "productNumber": "440/TRA-SAS/2019",
+    "productDate": "2019-04-03"
+  },
+  {
+    "id": 249,
+    "productName": "Ly giấy",
+    "productNumber": "441/TRA-SAS/2019",
+    "productDate": "2019-04-03"
+  },
+  {
+    "id": 250,
+    "productName": "Bột quế - Ground Cinnamon Korintji ",
+    "productNumber": "445/TRA-SAS/2019",
+    "productDate": "2019-04-04"
+  },
+  {
+    "id": 251,
+    "productName": "Cốc Gốm",
+    "productNumber": "446/TRA-SAS/2019",
+    "productDate": "2019-04-10"
+  },
+  {
+    "id": 252,
+    "productName": "Túi giấy đựng thực phẩm",
+    "productNumber": "447/TRA-SAS/2019",
+    "productDate": "2019-04-08"
+  },
+  {
+    "id": 253,
+    "productName": "Cà phê hạt đã rang Sulawesi Toraja Sapan Village ",
+    "productNumber": "449/TRA-SAS/2019",
+    "productDate": "2019-04-20"
+  },
+  {
+    "id": 254,
+    "productName": "Cà phê hạt đã rang Sun-Dried Brazil Sertao Farm",
+    "productNumber": "450/TRA-SAS/2019",
+    "productDate": "2019-04-20"
+  },
+  {
+    "id": 255,
+    "productName": "Siro hương vanilla",
+    "productNumber": "451/TRA-SAS/2019",
+    "productDate": "2019-04-20"
+  },
+  {
+    "id": 256,
+    "productName": "Rượu The Macallan M Highland Single Malt Scotch Whisky ",
+    "productNumber": "458/TRA-SAS/2019",
+    "productDate": "2019-04-23"
+  },
+  {
+    "id": 257,
+    "productName": "Rượu The Macallan Highland Single Malt Scotch Whisky 25 years old ",
+    "productNumber": "459/TRA-SAS/2019",
+    "productDate": "2019-04-23"
+  },
+  {
+    "id": 258,
+    "productName": "Rượu The Macallan No 6  Highland Single Malt Scotch Whisky ",
+    "productNumber": "460/TRA-SAS/2019",
+    "productDate": "2019-04-23"
+  },
+  {
+    "id": 259,
+    "productName": "Ly shot Begula",
+    "productNumber": "461/TRA-SAS/2019",
+    "productDate": "2019-04-19"
+  },
+  {
+    "id": 260,
+    "productName": "Hộp Giấy",
+    "productNumber": "462/TRA-SAS/2019",
+    "productDate": "2019-04-25"
+  },
+  {
+    "id": 261,
+    "productName": "Cà phê hạt đã rang Espresso",
+    "productNumber": "463/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 262,
+    "productName": "Trà Tazo Chai - Classic Chai",
+    "productNumber": "464/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 263,
+    "productName": "Túi giấy - Paper Bag",
+    "productNumber": "465/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 264,
+    "productName": "Bình nhựa Cambro ",
+    "productNumber": "466/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 265,
+    "productName": "Bột Frappuccino Roast",
+    "productNumber": "467/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 266,
+    "productName": "Bột Mocha ",
+    "productNumber": "468/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 267,
+    "productName": "Si rô Caramel",
+    "productNumber": "469/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 268,
+    "productName": "Si rô hazelnut",
+    "productNumber": "470/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 269,
+    "productName": "Si rô Frappuccino Coffee",
+    "productNumber": "471/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 270,
+    "productName": "Si rô Frappuccino Crème",
+    "productNumber": "472/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 271,
+    "productName": "Cốc sứ",
+    "productNumber": "473/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 272,
+    "productName": "Sốt mật ong và bưởi đỏ - Honey Red Grapefruit Sauce",
+    "productNumber": "474/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 273,
+    "productName": "Hạt trân châu vị lựu - Pomegranate Bubble Inclusion",
+    "productNumber": "475/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 274,
+    "productName": "Si rô vanilla",
+    "productNumber": "476/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 275,
+    "productName": "Si rô simple",
+    "productNumber": "477/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 276,
+    "productName": "Bột Vanilla tự nhiên – Natural Vanilla Powder",
+    "productNumber": "478/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 277,
+    "productName": "Xốt Caramel - Caramel Sauce",
+    "productNumber": "479/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 278,
+    "productName": "Giấy gói ",
+    "productNumber": "480/TRA-SAS/2019",
+    "productDate": "2019-04-27"
+  },
+  {
+    "id": 279,
+    "productName": "Nước Sốt Bò Thượng Hạng",
+    "productNumber": "482/TRA-SAS/2019",
+    "productDate": "2019-05-10"
+  },
+  {
+    "id": 280,
+    "productName": "Ly silicone",
+    "productNumber": "483/TRA-SAS/2019",
+    "productDate": "2019-05-06"
+  },
+  {
+    "id": 281,
+    "productName": "Bánh táo nướng - Fried Apple Pie",
+    "productNumber": "484/TRA-SAS/2019",
+    "productDate": "2019-05-13"
+  },
+  {
+    "id": 282,
+    "productName": "Siro hương bánh gừng",
+    "productNumber": "485/TRA-SAS/2019",
+    "productDate": "2019-05-08"
+  },
+  {
+    "id": 283,
+    "productName": "Cà phê hạt đã rang Brazil Minas Gerais",
+    "productNumber": "486/TRA-SAS/2019",
+    "productDate": "2019-05-16"
+  },
+  {
+    "id": 284,
+    "productName": "Hộp Giấy",
+    "productNumber": "487/TRA-SAS/2019",
+    "productDate": "2019-05-10"
+  },
+  {
+    "id": 285,
+    "productName": "Cà phê hạt đã rang Colombia Monks of San Roque",
+    "productNumber": "488/TRA-SAS/2019",
+    "productDate": "2019-05-21"
+  },
+  {
+    "id": 286,
+    "productName": "Rượu Bushmills Black Bush Irish Whiskey ",
+    "productNumber": "489/TRA-SAS/2019",
+    "productDate": "2019-05-19"
+  },
+  {
+    "id": 287,
+    "productName": "Rượu Bushmills Irish Whiskey Triple Distilled Smooth & Mellow",
+    "productNumber": "490/TRA-SAS/2019",
+    "productDate": "2019-05-19"
+  },
+  {
+    "id": 288,
+    "productName": "Rượu Bushmills Single Malt Irish Whiskey Triple Distilled Aged 10 Years",
+    "productNumber": "491/TRA-SAS/2019",
+    "productDate": "2019-05-19"
+  },
+  {
+    "id": 289,
+    "productName": "Rượu Bushmills Single Malt Irish Whiskey Triple Distilled Aged 16 Years",
+    "productNumber": "492/TRA-SAS/2019",
+    "productDate": "2019-05-19"
+  },
+  {
+    "id": 290,
+    "productName": "Rượu Bushmills Single Malt Irish Whiskey Triple Distilled Aged 21 Years",
+    "productNumber": "493/TRA-SAS/2019",
+    "productDate": "2019-05-19"
+  },
+  {
+    "id": 291,
+    "productName": "Ly sứ có nắp",
+    "productNumber": "494/TRA-SAS/2019",
+    "productDate": "2019-05-28"
+  },
+  {
+    "id": 292,
+    "productName": "Cốc sứ Siren",
+    "productNumber": "495/TRA-SAS/2019",
+    "productDate": "2019-06-03"
+  },
+  {
+    "id": 293,
+    "productName": "Cà phê hạt đã rang Sumatra",
+    "productNumber": "496/TRA-SAS/2019",
+    "productDate": "2019-06-05"
+  },
+  {
+    "id": 294,
+    "productName": "Ly thủy tinh ",
+    "productNumber": "497/TRA-SAS/2019",
+    "productDate": "2019-06-04"
+  },
+  {
+    "id": 295,
+    "productName": "Thạch vị bưởi ",
+    "productNumber": "498/TRA-SAS/2019",
+    "productDate": "2019-06-05"
+  },
+  {
+    "id": 296,
+    "productName": "Bột sô cô la có vị trà đen",
+    "productNumber": "500/TRA-SAS/2019",
+    "productDate": "2019-06-07"
+  },
+  {
+    "id": 297,
+    "productName": "Bình giữ nhiệt bằng inox",
+    "productNumber": "501/TRA-SAS/2019",
+    "productDate": "2019-06-05"
+  },
+  {
+    "id": 298,
+    "productName": "Bánh táo nướng - Fried Apple Pie",
+    "productNumber": "502/TRA-SAS/2020",
+    "productDate": "2019-06-12"
+  },
+  {
+    "id": 299,
+    "productName": "Sốt vị đào",
+    "productNumber": "503/TRA-SAS/2019",
+    "productDate": "2019-06-15"
+  },
+  {
+    "id": 300,
+    "productName": "Sốt hương kem sữa",
+    "productNumber": "504/TRA-SAS/2019",
+    "productDate": "2019-06-15"
+  },
+  {
+    "id": 301,
+    "productName": "Sốt hương chanh",
+    "productNumber": "505/TRA-SAS/2019",
+    "productDate": "2019-06-15"
+  },
+  {
+    "id": 302,
+    "productName": "Sốt Xoài",
+    "productNumber": "507/TRA-SAS/2019",
+    "productDate": "2019-07-02"
+  },
+  {
+    "id": 303,
+    "productName": "Rượu Vang Peter Lehmann Art 'N' Soul Sauvignon Blanc",
+    "productNumber": "508/TRA-SAS/2019",
+    "productDate": "2019-06-18"
+  },
+  {
+    "id": 304,
+    "productName": "Rượu The Sexton Single Malt Irish Whiskey",
+    "productNumber": "511/TRA-SAS/2019",
+    "productDate": "2019-06-20"
+  },
+  {
+    "id": 305,
+    "productName": "Rượu Aultmore Speyside Single Malt Scotch Whisky Aged 18 Years ",
+    "productNumber": "512/TRA-SAS/2019",
+    "productDate": "2019-06-20"
+  },
+  {
+    "id": 306,
+    "productName": "Rượu Aultmore Speyside Single Malt Scotch Whisky Aged 21 Years",
+    "productNumber": "513/TRA-SAS/2019",
+    "productDate": "2019-06-20"
+  },
+  {
+    "id": 307,
+    "productName": "Rượu Bushmills Single Malt Irish Whiskey Triple Distilled Aged 12 Years",
+    "productNumber": "514/TRA-SAS/2019",
+    "productDate": "2019-06-20"
+  },
+  {
+    "id": 308,
+    "productName": "Bộ đồ ăn bằng nhựa PP ",
+    "productNumber": "515/TRA-SAS/2019",
+    "productDate": "2019-06-26"
+  },
+  {
+    "id": 309,
+    "productName": "Bộ đồ ăn bằng nhựa PS",
+    "productNumber": "516/TRA-SAS/2019",
+    "productDate": "2019-06-26"
+  },
+  {
+    "id": 310,
+    "productName": "Vụn sung",
+    "productNumber": "517/TRA-SAS/2019",
+    "productDate": "2019-06-27"
+  },
+  {
+    "id": 311,
+    "productName": "Sốt hỗn hợp sung và vanilla",
+    "productNumber": "518/TRA-SAS/2019",
+    "productDate": "2019-06-27"
+  },
+  {
+    "id": 312,
+    "productName": "Sốt hương hazelnut",
+    "productNumber": "521/TRA-SAS/2019",
+    "productDate": "2019-07-03"
+  },
+  {
+    "id": 313,
+    "productName": "Ly Thủy Tinh ",
+    "productNumber": "523/TRA-SAS/2019",
+    "productDate": "2019-07-02"
+  },
+  {
+    "id": 314,
+    "productName": "Bình giữ nhiệt bằng nhựa",
+    "productNumber": "525/TRA-SAS/2019",
+    "productDate": "2019-07-08"
+  },
+  {
+    "id": 315,
+    "productName": "Ly The Macallan Lalique ",
+    "productNumber": "526/TRA-SAS/2019",
+    "productDate": "2019-07-16"
+  },
+  {
+    "id": 316,
+    "productName": "Ly The Macallan Chevron Highball ",
+    "productNumber": "527/TRA-SAS/2019",
+    "productDate": "2019-07-16"
+  },
+  {
+    "id": 317,
+    "productName": "Ly Highland Park Tasting  - Nhỏ",
+    "productNumber": "528/TRA-SAS/2019",
+    "productDate": "2019-07-16"
+  },
+  {
+    "id": 318,
+    "productName": "Cốc Naked Grouse Enamel",
+    "productNumber": "529/TRA-SAS/2019",
+    "productDate": "2019-07-16"
+  },
+  {
+    "id": 319,
+    "productName": "Nguyên liệu thực phẩm: Bột tẩm - Breader, BBQ TC11759A",
+    "productNumber": "530/TRA-SAS/2019",
+    "productDate": "2019-06-26"
+  },
+  {
+    "id": 320,
+    "productName": "Nguyên liệu thực phẩm: Bột gia vị - Marinade, BBQ Oriental TSM1175A",
+    "productNumber": "531/TRA-SAS/2019",
+    "productDate": "2019-07-25"
+  },
+  {
+    "id": 321,
+    "productName": "Khoai tây miếng chiên, đông lạnh",
+    "productNumber": "532/TRA-SAS/2019",
+    "productDate": "2019-07-26"
+  },
+  {
+    "id": 322,
+    "productName": "Khoai tây chiên, cắt thanh, đông lạnh",
+    "productNumber": "533/TRA-SAS/2019",
+    "productDate": "2019-07-26"
+  },
+  {
+    "id": 323,
+    "productName": "Bình giữ nhiệt bằng inox",
+    "productNumber": "535/TRA-SAS/2019",
+    "productDate": "2019-07-15"
+  },
+  {
+    "id": 324,
+    "productName": "Bột trà đen",
+    "productNumber": "536/TRA-SAS/2019",
+    "productDate": "2019-07-19"
+  },
+  {
+    "id": 325,
+    "productName": "Rượu Absinthe Grande Absente",
+    "productNumber": "537/TRA-SAS/2019",
+    "productDate": "2019-08-20"
+  },
+  {
+    "id": 326,
+    "productName": "RƯỢU BOLS NATURAL YOGHURT LIQUEUR ",
+    "productNumber": "542/TRA-SAS/2019"
+  },
+  {
+    "id": 327,
+    "productName": "RƯỢU SILVER TOP LONDON DRY GIN",
+    "productNumber": "543/TRA-SAS/2019"
+  },
+  {
+    "id": 328,
+    "productName": "RƯỢU BOLS LYCHEE LIQUEUR",
+    "productNumber": "544/TRA-SAS/2019"
+  },
+  {
+    "id": 329,
+    "productName": "RƯỢU HIGHLAND PARK SINGLE MALT SCOTCH WHISKY AGED 30 YEARS",
+    "productNumber": "545/TRA-SAS/2019"
+  },
+  {
+    "id": 330,
+    "productName": "RƯỢU BOLS GREEN TEA LIQUEUR",
+    "productNumber": "546/TRA-SAS/2019"
+  },
+  {
+    "id": 331,
+    "productName": "RƯỢU VANG BRIAR RIDGE WINEMAKERS SELECTION SEMILLON SAUVIGNON BLANC ",
+    "productNumber": "548/TRA-SAS/2019",
+    "productDate": "2019-08-21"
+  },
+  {
+    "id": 332,
+    "productName": "RƯỢU VANG BRIAR RIDGE WINEMAKERS SELECTION CHARDONNAY ",
+    "productNumber": "549/TRA-SAS/2019",
+    "productDate": "2019-08-21"
+  },
+  {
+    "id": 333,
+    "productName": "RƯỢU VANG BRIAR RIDGE WINEMAKERS SELECTION CABERNET SAUVIGNON",
+    "productNumber": "550/TRA-SAS/2019",
+    "productDate": "2019-08-21"
+  },
+  {
+    "id": 334,
+    "productName": "RƯỢU VANG BRIAR WINEMAKERS SELECTION SHIRAZ",
+    "productNumber": "551/TRA-SAS/2019",
+    "productDate": "2019-08-21"
+  },
+  {
+    "id": 335,
+    "productName": "RƯỢU VANG ST AUGUSTUS SAUVIGNON BLANC",
+    "productNumber": "552/TRA-SAS/2019",
+    "productDate": "2019-08-21"
+  },
+  {
+    "id": 336,
+    "productName": "RƯỢU VANG ST AUGUSTUS PINOT GRIGIO",
+    "productNumber": "553/TRA-SAS/2019",
+    "productDate": "2019-08-21"
+  },
+  {
+    "id": 337,
+    "productName": "RƯỢU VANG ST AUGUSTUS CABERNET SAUVIGNON",
+    "productNumber": "554/TRA-SAS/2019",
+    "productDate": "2019-08-21"
+  },
+  {
+    "id": 338,
+    "productName": "RƯỢU VANG ST AUGUSTUS SHIRAZ",
+    "productNumber": "555/TRA-SAS/2019",
+    "productDate": "2019-08-21"
+  },
+  {
+    "id": 339,
+    "productName": "RƯỢU VANG KÃMANA PINOT NOIR",
+    "productNumber": "556/TRA-SAS/2019",
+    "productDate": "2019-08-21"
+  },
+  {
+    "id": 340,
+    "productName": "RƯỢU VANG KÃMANA SAUVIGNON BLANC",
+    "productNumber": "557/TRA-SAS/2019",
+    "productDate": "2019-08-21"
+  },
+  {
+    "id": 341,
+    "productName": "RƯỢU VANG UPPERCUT SHIRAZ",
+    "productNumber": "558/TRA-SAS/2019",
+    "productDate": "2019-08-21"
+  },
+  {
+    "id": 342,
+    "productName": "Sốt đường nâu",
+    "productNumber": "559/TRA-SAS/2019",
+    "productDate": "2019-08-20"
+  },
+  {
+    "id": 343,
+    "productName": "Cà phê hạt đã rang Christmas Reserve",
+    "productNumber": "560/TRA-SAS/2019",
+    "productDate": "2019-08-20"
+  },
+  {
+    "id": 344,
+    "productName": "Bột đậu nành rang",
+    "productNumber": "561/TRA-SAS/2019",
+    "productDate": "2019-10-11"
+  },
+  {
+    "id": 345,
+    "productName": "Sốt Yuzu",
+    "productNumber": "562/TRA-SAS/2019",
+    "productDate": "2019-09-12"
+  },
+  {
+    "id": 346,
+    "productName": "Si rô hương vanilla",
+    "productNumber": "563/TRA-SAS/2019",
+    "productDate": "2019-09-10"
+  },
+  {
+    "id": 347,
+    "productName": "Ly kim loại pha cocktail Bacardi",
+    "productNumber": "566/TRA-SAS/2019",
+    "productDate": "2019-08-17"
+  },
+  {
+    "id": 348,
+    "productName": "Ly nhựa Grey Goose xanh dương",
+    "productNumber": "568/TRA-SAS/2019",
+    "productDate": "2019-08-17"
+  },
+  {
+    "id": 349,
+    "productName": "Ly nhựa Grey Goose trắng",
+    "productNumber": "569/TRA-SAS/2019",
+    "productDate": "2019-08-17"
+  },
+  {
+    "id": 350,
+    "productName": "Sốt caramel maple",
+    "productNumber": "570/TRA-SAS/2019",
+    "productDate": "2019-10-11"
+  },
+  {
+    "id": 351,
+    "productName": "Thạch Xoài",
+    "productNumber": "571/TRA-SAS/2019",
+    "productDate": "2019-10-11"
+  },
+  {
+    "id": 352,
+    "productName": "Bình lắc kim loại Grey Goose",
+    "productNumber": "587/TRA-SAS/2019",
+    "productDate": "2019-08-17"
+  },
+  {
+    "id": 353,
+    "productName": "Hộp giấy Happy Meal",
+    "productNumber": "589/TRA-SAS/2019",
+    "productDate": "2019-08-23"
+  },
+  {
+    "id": 354,
+    "productName": "Ly Thủy Tinh ",
+    "productNumber": "599/TRA-SAS/2019",
+    "productDate": "2019-09-03"
+  },
+  {
+    "id": 355,
+    "productName": "Vụn bánh ngũ cốc",
+    "productNumber": "601/TRA-SAS/2019",
+    "productDate": "2019-09-04"
+  },
+  {
+    "id": 356,
+    "productName": "Ly nhựa và nắp nhựa",
+    "productNumber": "602/TRA-SAS/2019",
+    "productDate": "2019-09-09"
+  },
+  {
+    "id": 357,
+    "productName": "Khay nhựa",
+    "productNumber": "603/TRA-SAS/2019",
+    "productDate": "2019-09-09"
+  },
+  {
+    "id": 358,
+    "productName": "Ly nhựa",
+    "productNumber": "604/TRA-SAS/2019",
+    "productDate": "2019-09-09"
+  },
+  {
+    "id": 359,
+    "productName": "Nắp nhựa",
+    "productNumber": "605/TRA-SAS/2019",
+    "productDate": "2019-09-09"
+  },
+  {
+    "id": 360,
+    "productName": "Hộp Giấy ",
+    "productNumber": "606/TRA-SAS/2019",
+    "productDate": "2019-09-09"
+  },
+  {
+    "id": 361,
+    "productName": "Ly giấy",
+    "productNumber": "614/TRA-SAS/2019",
+    "productDate": "2019-09-12"
+  },
+  {
+    "id": 362,
+    "productName": "Cốc sứ ",
+    "productNumber": "617/TRA-SAS/2019",
+    "productDate": "2019-09-12"
+  },
+  {
+    "id": 363,
+    "productName": "Bình giữ nhiệt bằng inox",
+    "productNumber": "618/TRA-SAS/2019",
+    "productDate": "2019-09-12"
+  },
+  {
+    "id": 364,
+    "productName": "Hộp nhựa và nắp nhựa ",
+    "productNumber": "619/TRA-SAS/2019",
+    "productDate": "2019-09-16"
+  },
+  {
+    "id": 365,
+    "productName": "Bình giữ nhiệt bằng inox",
+    "productNumber": "620/TRA-SAS/2019",
+    "productDate": "2019-09-16"
+  },
+  {
+    "id": 366,
+    "productName": "Bình giữ nhiệt bằng inox",
+    "productNumber": "621/TRA-SAS/2019",
+    "productDate": "2019-09-16"
+  },
+  {
+    "id": 367,
+    "productName": "Viên sô cô la",
+    "productNumber": "622/TRA-SAS/2019",
+    "productDate": "2019-09-24"
+  },
+  {
+    "id": 368,
+    "productName": "RƯỢU THE MACALLAN HIGHLAND SINGLE MALT SCOTCH WHISKY EDITION NO 5",
+    "productNumber": "623/TRA-SAS/2019",
+    "productDate": "2019-10-01"
+  },
+  {
+    "id": 369,
+    "productName": "Bột khoai môn",
+    "productNumber": "624/TRA-SAS/2019",
+    "productDate": "2019-10-11"
+  },
+  {
+    "id": 370,
+    "productName": "Vụn hạnh nhân",
+    "productNumber": "625/TRA-SAS/2019",
+    "productDate": "2019-10-11"
+  },
+  {
+    "id": 371,
+    "productName": "Bột trà xanh - Ground Matcha",
+    "productNumber": "626/TRA-SAS/2019",
+    "productDate": "2019-10-14"
+  },
+  {
+    "id": 372,
+    "productName": "Cà phê hạt đã rang Sun-dried Ethiopia Yirgacheffe Chelelektu",
+    "productNumber": "627/TRA-SAS/2019",
+    "productDate": "2019-10-11"
+  },
+  {
+    "id": 373,
+    "productName": "Cà phê hạt đã rang Costa Rica – Las Lomas Initiative",
+    "productNumber": "628/TRA-SAS/2019",
+    "productDate": "2019-10-11"
+  },
+  {
+    "id": 374,
+    "productName": "Thạch đào",
+    "productNumber": "629/TRA-SAS/2019",
+    "productDate": "2019-10-11"
+  },
+  {
+    "id": 375,
+    "productName": "Thạch vị trà oolong",
+    "productNumber": "630/TRA-SAS/2019",
+    "productDate": "2019-10-11"
+  },
+  {
+    "id": 376,
+    "productName": "Bánh hương chanh",
+    "productNumber": "631/TRA-SAS/2019",
+    "productDate": "2019-10-24"
+  },
+  {
+    "id": 377,
+    "productName": "Bánh cherry blossom",
+    "productNumber": "632/TRA-SAS/2019",
+    "productDate": "2019-10-24"
+  },
+  {
+    "id": 378,
+    "productName": "Sốt hương socola hazelnut",
+    "productNumber": "633/TRA-SAS/2019",
+    "productDate": "2019-10-11"
+  },
+  {
+    "id": 379,
+    "productName": "Cà phê hạt đã rang Guatemala Atitlan",
+    "productNumber": "634/TRA-SAS/2019",
+    "productDate": "2019-10-11"
+  },
+  {
+    "id": 380,
+    "productName": "Cốc sứ ",
+    "productNumber": "635/TRA-SAS/2019",
+    "productDate": "2019-10-01"
+  },
+  {
+    "id": 381,
+    "productName": "BIA LOBKOWICZ PREMIUM SVẼTLÝ LEZÁK",
+    "productNumber": "636/TRA-SAS/2019",
+    "productDate": "2019-10-18"
+  },
+  {
+    "id": 382,
+    "productName": "VỤN BÁNH QUY OREO",
+    "productNumber": "637/TRA-SAS/2019",
+    "productDate": "2019-11-05"
+  },
+  {
+    "id": 383,
+    "productName": "HỘP GIẤY ",
+    "productNumber": "638/TRA-SAS/2019",
+    "productDate": "2019-10-15"
+  },
+  {
+    "id": 384,
+    "productName": "Ống hút bằng nhựa",
+    "productNumber": "639/TRA-SAS/2019",
+    "productDate": "2019-11-01"
+  },
+  {
+    "id": 385,
+    "productName": "Muỗng nhựa",
+    "productNumber": "640/TRA-SAS/2019",
+    "productDate": "2019-11-01"
+  },
+  {
+    "id": 386,
+    "productName": "Hạt bắp ngọt đông lạnh ",
+    "productNumber": "641/TRA-SAS/2019",
+    "productDate": "2019-11-01"
+  },
+  {
+    "id": 387,
+    "productName": "Hỗn hợp dâu tây và mâm xôi ngâm nước đường đóng hộp",
+    "productNumber": "642/TRA-SAS/2019",
+    "productDate": "2019-11-11"
+  },
+  {
+    "id": 388,
+    "productName": "Cam cắt lát",
+    "productNumber": "643/TRA-SAS/2019",
+    "productDate": "2019-11-11"
+  },
+  {
+    "id": 389,
+    "productName": "Bưởi ngâm nước đường đóng hộp",
+    "productNumber": "644/TRA-SAS/2019",
+    "productDate": "2019-11-11"
+  },
+  {
+    "id": 390,
+    "productName": "Chanh cắt lát",
+    "productNumber": "645/TRA-SAS/2019",
+    "productDate": "2019-11-11"
+  },
+  {
+    "id": 391,
+    "productName": "Cà phê hòa tan Via Christmas Blend",
+    "productNumber": "646/TRA-SAS/2019",
+    "productDate": "2019-11-21"
+  },
+  {
+    "id": 392,
+    "productName": "Cà phê hạt đã rang Reserve Cold Brew",
+    "productNumber": "647/TRA-SAS/2019",
+    "productDate": "2019-11-01"
+  },
+  {
+    "id": 393,
+    "productName": "Nước chanh",
+    "productNumber": "648/TRA-SAS/2019",
+    "productDate": "2019-11-06"
+  },
+  {
+    "id": 394,
+    "productName": "Hạt bắp ngọt đông lạnh",
+    "productNumber": "649/TRA-SAS/2019",
+    "productDate": "2019-11-14"
+  },
+  {
+    "id": 395,
+    "productName": "DÂU TÂY NGÂM ĐƯỜNG ",
+    "productNumber": "650/TRA-SAS/2019",
+    "productDate": "2019-12-10"
+  },
+  {
+    "id": 396,
+    "productName": "HỖN HỢP DÂU TÂY NGÂM ĐƯỜNG VÀ THẠCH DÂU",
+    "productNumber": "651/TRA-SAS/2019",
+    "productDate": "2019-12-10"
+  },
+  {
+    "id": 397,
+    "productName": "VỤN NGŨ CỐC VÀ SOCOLA",
+    "productNumber": "652/TRA-SAS/2019",
+    "productDate": "2019-12-10"
+  },
+  {
+    "id": 398,
+    "productName": "CÀ PHÊ HẠT ĐÃ RANG GUATEMALA CHIQUIMULA & ZACAPA VALLEYS",
+    "productNumber": "653/TRA-SAS/2019",
+    "productDate": "2019-12-10"
+  },
+  {
+    "id": 399,
+    "productName": "CÀ PHÊ HẠT ĐÃ RANG INDIA PEARL MOUNTAIN ESTATE",
+    "productNumber": "654/TRA-SAS/2019",
+    "productDate": "2019-12-10"
+  },
+  {
+    "id": 400,
+    "productName": "Sốt caramel ",
+    "productNumber": "656/TRA-SAS/2019",
+    "productDate": "2019-11-25"
+  },
+  {
+    "id": 401,
+    "productName": "Nước ép đào",
+    "productNumber": "657/TRA-SAS/2019",
+    "productDate": "2019-11-28"
+  },
+  {
+    "id": 402,
+    "productName": "Hỗn hợp thanh long và xoài ngâm nước đường",
+    "productNumber": "658/TRA-SAS/2019",
+    "productDate": "2019-12-12"
+  },
+  {
+    "id": 403,
+    "productName": "Đường hương việt quất màu xanh",
+    "productNumber": "659/TRA-SAS/2019",
+    "productDate": "2019-12-16"
+  },
+  {
+    "id": 404,
+    "productName": "Hỗn hợp dâu tây, ngũ cốc vị socola",
+    "productNumber": "660/TRA-SAS/2019",
+    "productDate": "2019-12-12"
+  },
+  {
+    "id": 405,
+    "productName": "Sốt ngọt hương bí đỏ ",
+    "productNumber": "661/TRA-SAS/2019",
+    "productDate": "2019-12-16"
+  },
+  {
+    "id": 406,
+    "productName": "Ly nhựa",
+    "productNumber": "662/TRA-SAS/2019",
+    "productDate": "2019-12-16"
+  },
+  {
+    "id": 407,
+    "productName": "Vụn hạnh nhân",
+    "productNumber": "663/TRA-SAS/2019",
+    "productDate": "2019-12-20"
+  },
+  {
+    "id": 408,
+    "productName": "Cà phê hạt đã rang Sulawesi Toraja",
+    "productNumber": "664/TRA-SAS/2019",
+    "productDate": "2019-12-20"
+  },
+  {
+    "id": 409,
+    "productName": "Cà phê hòa tan Via Colombia",
+    "productNumber": "665/TRA-SAS/2019",
+    "productDate": "2019-12-26"
+  },
+  {
+    "id": 410,
+    "productName": "Cà phê hòa tan Via Pike Place Roast",
+    "productNumber": "666/TRA-SAS/2019",
+    "productDate": "2019-12-26"
+  },
+  {
+    "id": 411,
+    "productName": "Cà phê hòa tan Via Italian Roast",
+    "productNumber": "667/TRA-SAS/2019",
+    "productDate": "2019-12-26"
+  },
+  {
+    "id": 412,
+    "productName": "Si rô đường nâu Demerara",
+    "productNumber": "668/TRA-SAS/2019",
+    "productDate": "2019-12-26"
+  },
+  {
+    "id": 413,
+    "productName": "Si rô hương vanilla",
+    "productNumber": "669/TRA-SAS/2019",
+    "productDate": "2019-12-26"
+  },
+  {
+    "id": 414,
+    "productName": "Bột gia vị màu bí đỏ",
+    "productNumber": "670/TRA-SAS/2019",
+    "productDate": "2019-12-26"
+  },
+  {
+    "id": 415,
+    "productName": "Hộp đựng cơm bằng nhựa",
+    "productNumber": "01/TRA-SAS/2020",
+    "productDate": "2020-02-10"
+  },
+  {
+    "id": 416,
+    "productName": "Cà phê hạt đã rang Rwanda Abakundakawa",
+    "productNumber": "02/TRA-SAS/2020",
+    "productDate": "2020-01-16"
+  },
+  {
+    "id": 417,
+    "productName": "Cà phê hạt đã rang East Timor Peaberry",
+    "productNumber": "03/TRA-SAS/2020",
+    "productDate": "2020-01-16"
+  },
+  {
+    "id": 418,
+    "productName": "Thạch hương táo chanh",
+    "productNumber": "04/TRA-SAS/2020",
+    "productDate": "2020-01-16"
+  },
+  {
+    "id": 419,
+    "productName": "Xô đá",
+    "productNumber": "05/TRA-SAS/2020",
+    "productDate": "2020-01-16"
+  },
+  {
+    "id": 420,
+    "productName": "Thùng gỗ",
+    "productNumber": "06/TRA-SAS/2020",
+    "productDate": "2020-01-16"
+  },
+  {
+    "id": 421,
+    "productName": "Chai thiếc đựng rượu ",
+    "productNumber": "07/TRA-SAS/2020",
+    "productDate": "2020-01-16"
+  },
+  {
+    "id": 422,
+    "productName": "Bình đựng rượu",
+    "productNumber": "08/TRA-SAS/2020",
+    "productDate": "2020-01-16"
+  },
+  {
+    "id": 423,
+    "productName": "Ly silicon",
+    "productNumber": "09/TRA-SAS/2020",
+    "productDate": "2020-01-09"
+  },
+  {
+    "id": 424,
+    "productName": "Nước yến mạch",
+    "productNumber": "11/TRA-SAS/2020",
+    "productDate": "2020-01-09"
+  },
+  {
+    "id": 425,
+    "productName": "Nước hương đậu biếc",
+    "productNumber": "12/TRA-SAS/2020",
+    "productDate": "2020-01-09"
+  },
+  {
+    "id": 426,
+    "productName": "Hỗn hợp gia vị quế và gừng - Pumpkin Spice Topping",
+    "productNumber": "13/TRA-SAS/2020",
+    "productDate": "2020-01-14"
+  },
+  {
+    "id": 427,
+    "productName": "Kẹo cherry blossom",
+    "productNumber": "14/TRA-SAS/2020",
+    "productDate": "2020-02-14"
+  },
+  {
+    "id": 428,
+    "productName": "Ly thủy tinh",
+    "productNumber": "15/TRA-SAS/2020",
+    "productDate": "2020-02-10"
+  },
+  {
+    "id": 429,
+    "productName": "Đồ uống sữa hạnh nhân",
+    "productNumber": "16/TRA-SAS/2020",
+    "productDate": "2020-02-28"
+  },
+  {
+    "id": 430,
+    "productName": "Bột quế gừng có đường",
+    "productNumber": "17/TRA-SAS/2020",
+    "productDate": "2020-04-24"
+  },
+  {
+    "id": 431,
+    "productName": "Sốt chuối",
+    "productNumber": "20/TRA-SAS/2020",
+    "productDate": "2020-02-14"
+  },
+  {
+    "id": 432,
+    "productName": "Nguyên liệu thực phẩm: Bột tẩm - Breader, Spicy 999012281",
+    "productNumber": "21/TRA-SAS/2020",
+    "productDate": "2020-02-26"
+  },
+  {
+    "id": 433,
+    "productName": "Nguyên liệu thực phẩm: Bột gia vị tẩm ướp - Marinade, Spicy 999012280",
+    "productNumber": "22/TRA-SAS/2020",
+    "productDate": "2020-02-26"
+  },
+  {
+    "id": 434,
+    "productName": "Nước sầu riêng có ga- Sparkling Golden Pillow Durian",
+    "productNumber": "23/TRA-SAS/2020",
+    "productDate": "2020-04-16"
+  },
+  {
+    "id": 435,
+    "productName": "Nước dứa có ga- Sparkling Sriracha Pineapple",
+    "productNumber": "24/TRA-SAS/2020",
+    "productDate": "2020-04-16"
+  },
+  {
+    "id": 436,
+    "productName": "Nước vải có ga – Sparkling Jakrapat Lychee",
+    "productNumber": "25/TRA-SAS/2020",
+    "productDate": "2020-04-16"
+  },
+  {
+    "id": 437,
+    "productName": "Nước xoài có ga- Sparkling Nam dok mai Mango",
+    "productNumber": "26/TRA-SAS/2020",
+    "productDate": "2020-04-16"
+  },
+  {
+    "id": 438,
+    "productName": "Bột yogurt",
+    "productNumber": "27/TRA-SAS/2020",
+    "productDate": "2020-04-20"
+  },
+  {
+    "id": 439,
+    "productName": "Sốt táo ",
+    "productNumber": "28/TRA-SAS/2020",
+    "productDate": "2020-04-20"
+  },
+  {
+    "id": 440,
+    "productName": "Hộp giấy",
+    "productNumber": "29/TRA-SAS/2020",
+    "productDate": "2020-02-28"
+  },
+  {
+    "id": 441,
+    "productName": "Si rô hương caramel ",
+    "productNumber": "30/TRA-SAS/2020",
+    "productDate": "2020-03-20"
+  },
+  {
+    "id": 442,
+    "productName": "Si rô hương táo",
+    "productNumber": "31/TRA-SAS/2020",
+    "productDate": "2020-03-20"
+  },
+  {
+    "id": 443,
+    "productName": "Ly thủy tinh ",
+    "productNumber": "32/TRA-SAS/2020",
+    "productDate": "2020-03-13"
+  },
+  {
+    "id": 444,
+    "productName": "Ly thủy tinh ",
+    "productNumber": "33/TRA-SAS/2020",
+    "productDate": "2020-03-13"
+  },
+  {
+    "id": 445,
+    "productName": "Nắp ly bằng nhựa PP (có thể dùng để đựng thực phẩm)",
+    "productNumber": "34/TRA-SAS/2020",
+    "productDate": "2020-03-24"
+  },
+  {
+    "id": 446,
+    "productName": "Dầu bơ thực vật hỗn hợp ",
+    "productNumber": "35/TRA-SAS/2020",
+    "productDate": "2020-03-21"
+  },
+  {
+    "id": 447,
+    "productName": "Khoai tây chiên, hình Minions, đông lạnh",
+    "productNumber": "36/TRA-SAS/2020",
+    "productDate": "2020-03-21"
+  },
+  {
+    "id": 448,
+    "productName": "Cà phê hoà tan VIA Caramel Latte",
+    "productNumber": "37/TRA-SAS/2020",
+    "productDate": "2020-03-21"
+  },
+  {
+    "id": 449,
+    "productName": "Cà phê hoà tan VIA Vanilla Latte ",
+    "productNumber": "38/TRA-SAS/2020",
+    "productDate": "2020-03-23"
+  },
+  {
+    "id": 450,
+    "productName": "Cà phê hoà tan VIA Caffe Mocha ",
+    "productNumber": "39/TRA-SAS/2020",
+    "productDate": "2020-03-23"
+  },
+  {
+    "id": 451,
+    "productName": "Cà phê hạt đã rang Natural Decaf Espresso",
+    "productNumber": "40/TRA-SAS/2020",
+    "productDate": "2020-06-12"
+  },
+  {
+    "id": 452,
+    "productName": "Tô gốm",
+    "productNumber": "41/TRA-SAS/2020",
+    "productDate": "2020-03-25"
+  },
+  {
+    "id": 453,
+    "productName": "Hộp nhựa",
+    "productNumber": "42/TRA-SAS/2020",
+    "productDate": "2020-04-16"
+  },
+  {
+    "id": 454,
+    "productName": "Hạt bắp ngọt đông lạnh",
+    "productNumber": "43/TRA-SAS/2020",
+    "productDate": "2020-04-01"
+  },
+  {
+    "id": 455,
+    "productName": "Vụn kẹo hương táo ",
+    "productNumber": "44/TRA-SAS/2020",
+    "productDate": "2020-04-06"
+  },
+  {
+    "id": 456,
+    "productName": "Cà phê hạt đã rang Rwanda",
+    "productNumber": "45/TRA-SAS/2020",
+    "productDate": "2020-04-08"
+  },
+  {
+    "id": 457,
+    "productName": "Sốt hương hạt dẻ ",
+    "productNumber": "46/TRA-SAS/2020",
+    "productDate": "2020-05-20"
+  },
+  {
+    "id": 458,
+    "productName": "Sốt gừng mật ong",
+    "productNumber": "47/TRA-SAS/2020",
+    "productDate": "2020-05-20"
+  },
+  {
+    "id": 459,
+    "productName": "Trà túi lọc Teavana Earl Grey Black Tea Blend",
+    "productNumber": "48/TRA-SAS/2020",
+    "productDate": "2020-04-24"
+  },
+  {
+    "id": 460,
+    "productName": "Sốt hương kẹo bơ đường",
+    "productNumber": "49/TRA-SAS/2020",
+    "productDate": "2020-06-26"
+  },
+  {
+    "id": 461,
+    "productName": "Si rô Frappuccino Coffee",
+    "productNumber": "50/TRA-SAS/2020",
+    "productDate": "2020-05-08"
+  },
+  {
+    "id": 462,
+    "productName": "Si rô hương hazelnut ",
+    "productNumber": "51/TRA-SAS/2020",
+    "productDate": "2020-05-08"
+  },
+  {
+    "id": 463,
+    "productName": "Dưa chuột muối",
+    "productNumber": "52/TRA-SAS/2020",
+    "productDate": "2020-10-01"
+  },
+  {
+    "id": 464,
+    "productName": "Trà túi lọc Teavana Mint Blend",
+    "productNumber": "53/TRA-SAS/2020",
+    "productDate": "2020-05-25"
+  },
+  {
+    "id": 465,
+    "productName": "Si rô hương kẹo bơ",
+    "productNumber": "54/TRA-SAS/2020",
+    "productDate": "2020-05-29"
+  },
+  {
+    "id": 466,
+    "productName": "Vụn kẹo bơ",
+    "productNumber": "55/TRA-SAS/2020",
+    "productDate": "2020-05-29"
+  },
+  {
+    "id": 467,
+    "productName": "Si rô hương caramel muối ",
+    "productNumber": "56/TRA-SAS/2020",
+    "productDate": "2020-06-08"
+  },
+  {
+    "id": 468,
+    "productName": "Cà phê hạt đã rang Colombia Santander",
+    "productNumber": "57/TRA-SAS/2020",
+    "productDate": "2020-06-12"
+  },
+  {
+    "id": 469,
+    "productName": "Vỏ bánh ốc quế",
+    "productNumber": "58/TRA-SAS/2020",
+    "productDate": "2020-06-22"
+  },
+  {
+    "id": 470,
+    "productName": "Cà phê hạt đã rang Ecuador Pichincha Volcano",
+    "productNumber": "59/TRA-SAS/2020",
+    "productDate": "2020-06-26"
+  },
+  {
+    "id": 471,
+    "productName": "Cà phê hạt đã rang Zambia Isanya Estate",
+    "productNumber": "60/TRA-SAS/2020",
+    "productDate": "2020-06-26"
+  },
+  {
+    "id": 472,
+    "productName": "Ly giấy",
+    "productNumber": "61/TRA-SAS/2020",
+    "productDate": "2020-07-06"
+  },
+  {
+    "id": 473,
+    "productName": "Ly giữ nhiệt bằng inox",
+    "productNumber": "62/TRA-SAS/2020",
+    "productDate": "2020-06-29"
+  },
+  {
+    "id": 474,
+    "productName": "Hộp giấy ",
+    "productNumber": "63/TRA-SAS/2020",
+    "productDate": "2020-07-10"
+  },
+  {
+    "id": 475,
+    "productName": "Sốt dâu tây",
+    "productNumber": "64/TRA-SAS/2020",
+    "productDate": "2020-07-20"
+  },
+  {
+    "id": 476,
+    "productName": "Bánh mì Anh",
+    "productNumber": "65/TRA-SAS/2020",
+    "productDate": "2020-08-06"
+  },
+  {
+    "id": 477,
+    "productName": "Bột tạo bọt - Foaming Powder",
+    "productNumber": "66/TRA-SAS/2020",
+    "productDate": "2020-08-10"
+  },
+  {
+    "id": 478,
+    "productName": "Hộp silicone đựng thực phẩm",
+    "productNumber": "67/TRA-SAS/2020",
+    "productDate": "2020-07-22"
+  },
+  {
+    "id": 479,
+    "productName": "Sốt dâu",
+    "productNumber": "68/TRA-SAS/2020",
+    "productDate": "2020-08-10"
+  },
+  {
+    "id": 480,
+    "productName": "Ly giấy",
+    "productNumber": "69/TRA-SAS/2020",
+    "productDate": "2020-07-10"
+  },
+  {
+    "id": 481,
+    "productName": "Sốt dứa",
+    "productNumber": "70/TRA-SAS/2020",
+    "productDate": "2020-09-18"
+  },
+  {
+    "id": 482,
+    "productName": "Si rô hương mật ong ",
+    "productNumber": "71/TRA-SAS/2020",
+    "productDate": "2020-09-24"
+  },
+  {
+    "id": 483,
+    "productName": "Kẹo sô cô la trắng hương berry",
+    "productNumber": "72/TRA-SAS/2020",
+    "productDate": "2020-08-17"
+  },
+  {
+    "id": 484,
+    "productName": "Khoai tây xoắn chiên đông lạnh",
+    "productNumber": "73/TRA-SAS/2020",
+    "productDate": "2020-09-01"
+  },
+  {
+    "id": 485,
+    "productName": "Bỏng ngô hương caramel mật ong",
+    "productNumber": "74/TRA-SAS/2020",
+    "productDate": "2020-09-09"
+  },
+  {
+    "id": 486,
+    "productName": "Thanh hỗn hợp các loại hạt",
+    "productNumber": "75/TRA-SAS/2020",
+    "productDate": "2020-09-09"
+  },
+  {
+    "id": 487,
+    "productName": "Trà túi lọc Teavana Passion Tango Iced",
+    "productNumber": "76/TRA-SAS/2020",
+    "productDate": "2020-08-25"
+  },
+  {
+    "id": 488,
+    "productName": "Trà túi lọc Teavana Chai Spiced Black Tea Blendrn",
+    "productNumber": "77/TRA-SAS/2020",
+    "productDate": "2020-08-28"
+  },
+  {
+    "id": 489,
+    "productName": "Trà túi lọc Teavana Iced Black Tea",
+    "productNumber": "78/TRA-SAS/2020",
+    "productDate": "2020-09-14"
+  },
+  {
+    "id": 490,
+    "productName": "Bình giữ nhiệt bằng inox ",
+    "productNumber": "79/TRA-SAS/2020",
+    "productDate": "2020-07-31"
+  },
+  {
+    "id": 491,
+    "productName": "Dầu cọ (dầu cọ Olein)",
+    "productNumber": "80/TRA-SAS/2020",
+    "productDate": "2020-11-02"
+  },
+  {
+    "id": 492,
+    "productName": "Cà phê hạt đã rang Mexico Oaxaca",
+    "productNumber": "81/TRA-SAS/2020",
+    "productDate": "2020-10-02"
+  },
+  {
+    "id": 493,
+    "productName": "Trà túi lọc Teavana Iced Green Tea",
+    "productNumber": "82/TRA-SAS/2020",
+    "productDate": "2020-10-02"
+  },
+  {
+    "id": 494,
+    "productName": "Trà túi lọc Teavana Youthberry Flavoured White Tea Blend",
+    "productNumber": "83/TRA-SAS/2020",
+    "productDate": "2020-10-02"
+  },
+  {
+    "id": 495,
+    "productName": "Trà túi lọc Teavana Mint Citrus Flavoured Green Tea Blend ",
+    "productNumber": "84/TRA-SAS/2020",
+    "productDate": "2020-10-02"
+  },
+  {
+    "id": 496,
+    "productName": "Trà túi lọc Teavana Hibiscus Flavoured Herbal Blend ",
+    "productNumber": "85/TRA-SAS/2020",
+    "productDate": "2020-10-02"
+  },
+  {
+    "id": 497,
+    "productName": "Vụn bánh vị trà đen",
+    "productNumber": "86/TRA-SAS/2020",
+    "productDate": "2020-10-26"
+  },
+  {
+    "id": 498,
+    "productName": "Sốt kem sữa hương vanilla",
+    "productNumber": "87/TRA-SAS/2020",
+    "productDate": "2020-10-26"
+  },
+  {
+    "id": 499,
+    "productName": "Cà phê hạt đã rang Pike Place Roast",
+    "productNumber": "88/TRA-SAS/2020",
+    "productDate": "2020-10-02"
+  },
+  {
+    "id": 500,
+    "productName": "Cà phê hạt đã rang Ethiopia",
+    "productNumber": "89/TRA-SAS/2020",
+    "productDate": "2020-10-02"
+  },
+  {
+    "id": 501,
+    "productName": "Bình nước bằng nhựa",
+    "productNumber": "90/TRA-SAS/2020",
+    "productDate": "2020-10-05"
+  },
+  {
+    "id": 502,
+    "productName": "PHÔ MAI RICOTTA",
+    "productNumber": "01/TRA-SAS/2021",
+    "productDate": "2021-01-15"
+  },
+  {
+    "id": 503,
+    "productName": "PHÔ MAI HAMBURGER (SLICE CHEESE)",
+    "productNumber": "03/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 504,
+    "productName": "PHÔ MAI CROQUE MONSIEUR (SLICE CHEESE)",
+    "productNumber": "04/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 505,
+    "productName": "PHÔ MAI LES PETITS CARRÉS (CREAM CHEESE SQUARE)",
+    "productNumber": "05/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 506,
+    "productName": "PHÔ MAI BLEU",
+    "productNumber": "06/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 507,
+    "productName": "PHÔ MAI PARMIGIANO REGGIANO AOP (PARMESAN CHEESE)",
+    "productNumber": "07/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 508,
+    "productName": "PHÔ MAI CAMEMBERT 8 PORTIONS",
+    "productNumber": "08/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 509,
+    "productName": "PHÔ MAI PETIT BRIE",
+    "productNumber": "09/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 510,
+    "productName": "PHÔ MAI REBLOCHON",
+    "productNumber": "10/TRA-SAS/2021",
+    "productDate": "2021-01-15"
+  },
+  {
+    "id": 511,
+    "productName": "PHÔ MAI AILLADOU AIL & FINES HERBES (CREAM    CHEESE GARLIC)",
+    "productNumber": "11/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 512,
+    "productName": "PHÔ MAI MONT D'OR APPELLATION D'ORIGINE PROTÉGÉE AU LAIT CRU",
+    "productNumber": "12/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 513,
+    "productName": "PHÔ MAI MASCARPONE",
+    "productNumber": "13/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 514,
+    "productName": "PHÔ MAI EMMENTAL FRANCAIS (BLOCK CHEESE)",
+    "productNumber": "14/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 515,
+    "productName": "PHÔ MAI ROQUEFORT",
+    "productNumber": "15/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 516,
+    "productName": "PHÔ MAI BLEU D'AUVERGNE APPELLATION D'ORIGINE PROTÉGÉE (BLUE CHEESE FROM AUVERGNE)",
+    "productNumber": "16/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 517,
+    "productName": "PHÔ MAI VAL D'AUTOMNE (SOFT SQUARE CHEESE)",
+    "productNumber": "17/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 518,
+    "productName": "PHÔ MAI MIẾNG GRANA PADANO",
+    "productNumber": "18/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 519,
+    "productName": "PHÔ MAI BỘT GRANA PADANO",
+    "productNumber": "19/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 520,
+    "productName": "PHÔ MAI LE RURAL CAMEMBERT DE CARACTÈRE",
+    "productNumber": "20/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 521,
+    "productName": "PHÔ MAI COMTÉ",
+    "productNumber": "21/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 522,
+    "productName": "PHÔ MAI FROMAGE DE CHÈVRE SAINTE-MAURE (GOAT LOG CHEESE)",
+    "productNumber": "22/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 523,
+    "productName": "PHÔ MAI PONT-L'ÉVÊQUE AOP (PONT L'EVEQUE SOFT CHEESE)",
+    "productNumber": "23/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 524,
+    "productName": "PHÔ MAI COULOMMIERS",
+    "productNumber": "24/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 525,
+    "productName": "PHÔ MAI POINTE DE BRIE",
+    "productNumber": "25/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 526,
+    "productName": "PHÔ MAI BRIQUE AU LAIT DE VACHE (SOFT CHEESE BRIQUE VACHE)",
+    "productNumber": "26/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 527,
+    "productName": "PHÔ MAI LA RACLETTE EN TRANCHES SANS CROUTE",
+    "productNumber": "27/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 528,
+    "productName": "Sốt dâu tây",
+    "productNumber": "28/TRA-SAS/2021",
+    "productDate": "2021-01-05"
+  },
+  {
+    "id": 529,
+    "productName": "Vụn bánh quế và hạt dẻ cười",
+    "productNumber": "29/TRA-SAS/2021",
+    "productDate": "2021-01-11"
+  },
+  {
+    "id": 530,
+    "productName": "Mù tạt - Mustard Pouch",
+    "productNumber": "30/TRA-SAS/2021",
+    "productDate": "2021-06-02"
+  },
+  {
+    "id": 531,
+    "productName": "Xốt sô cô la - Hot Fudge Topping",
+    "productNumber": "33/TRA-SAS/2021",
+    "productDate": "2021-03-12"
+  },
+  {
+    "id": 532,
+    "productName": "Cà phê hạt đã rang Indonesia West Java",
+    "productNumber": "34/TRA-SAS/2021",
+    "productDate": "2021-02-04"
+  },
+  {
+    "id": 533,
+    "productName": "Cà phê hạt đã rang Papua New Guinea",
+    "productNumber": "35/TRA-SAS/2021",
+    "productDate": "2021-02-04"
+  },
+  {
+    "id": 534,
+    "productName": "Cà phê hạt đã rang Siren’s Blend",
+    "productNumber": "36/TRA-SAS/2021",
+    "productDate": "2021-02-04"
+  },
+  {
+    "id": 535,
+    "productName": "Bột kem có đường hương vani",
+    "productNumber": "37/TRA-SAS/2021",
+    "productDate": "2021-02-03"
+  },
+  {
+    "id": 536,
+    "productName": "Si rô hương marshmallow",
+    "productNumber": "38/TRA-SAS/2021",
+    "productDate": "2021-01-29"
+  },
+  {
+    "id": 537,
+    "productName": "Vụn bánh waffle",
+    "productNumber": "39/TRA-SAS/2021",
+    "productDate": "2021-02-26"
+  },
+  {
+    "id": 538,
+    "productName": "Kẹo xốp Marshmallow",
+    "productNumber": "40/TRA-SAS/2021",
+    "productDate": "2021-03-04"
+  },
+  {
+    "id": 539,
+    "productName": "PHÔ MAI GRATED EMMENTAL",
+    "productNumber": "41/TRA-SAS/2021",
+    "productDate": "2021-01-29"
+  },
+  {
+    "id": 540,
+    "productName": "PHÔ MAI GORGONZOLA        ",
+    "productNumber": "42/TRA-SAS/2021",
+    "productDate": "2021-01-29"
+  },
+  {
+    "id": 541,
+    "productName": "Kẹo sô cô la",
+    "productNumber": "43/TRA-SAS/2021",
+    "productDate": "2021-02-26"
+  },
+  {
+    "id": 542,
+    "productName": "Vụn kẹo hương mật ong",
+    "productNumber": "44/TRA-SAS/2021",
+    "productDate": "2021-03-26"
+  },
+  {
+    "id": 543,
+    "productName": "Cà phê hạt đã rang Sun-Dried Brazil Isidro Pereira Estate",
+    "productNumber": "45/TRA-SAS/2021",
+    "productDate": "2021-03-19"
+  },
+  {
+    "id": 544,
+    "productName": "Cà phê hạt đã rang Indonesia West Java",
+    "productNumber": "46/TRA-SAS/2021",
+    "productDate": "2021-03-10"
+  },
+  {
+    "id": 545,
+    "productName": "Cà phê hạt đã rang Papua New Guinea Kenta",
+    "productNumber": "47/TRA-SAS/2021",
+    "productDate": "2021-03-10"
+  },
+  {
+    "id": 546,
+    "productName": "PHÔ MAI FETA AOP",
+    "productNumber": "48/TRA-SAS/2021",
+    "productDate": "2021-03-05"
+  },
+  {
+    "id": 547,
+    "productName": "BÁNH PASTRY 8 SHEETS BRICK",
+    "productNumber": "49/TRA-SAS/2021",
+    "productDate": "2021-03-05"
+  },
+  {
+    "id": 548,
+    "productName": "VỎ BÁNH PIZZA PASTRY",
+    "productNumber": "50/TRA-SAS/2021",
+    "productDate": "2021-03-11"
+  },
+  {
+    "id": 549,
+    "productName": "BÁNH PASTRY PATE FEUILLETEE AU BEURRE",
+    "productNumber": "52/TRA-SAS/2021",
+    "productDate": "2021-03-19"
+  },
+  {
+    "id": 550,
+    "productName": "BÁNH PASTRY PATE BRISEE AU BEURRE",
+    "productNumber": "53/TRA-SAS/2021",
+    "productDate": "2021-03-19"
+  },
+  {
+    "id": 551,
+    "productName": "Sốt đường nâu",
+    "productNumber": "54/TRA-SAS/2021",
+    "productDate": "2021-04-02"
+  },
+  {
+    "id": 552,
+    "productName": "Si rô hương sô cô la trắng nướng",
+    "productNumber": "55/TRA-SAS/2021",
+    "productDate": "2021-04-02"
+  },
+  {
+    "id": 553,
+    "productName": "Muối i ốt PDV",
+    "productNumber": "56/TRA-SAS/2021",
+    "productDate": "2021-04-23"
+  },
+  {
+    "id": 554,
+    "productName": "Vụn kẹo Candy Cane Sprinkles",
+    "productNumber": "57/TRA-SAS/2021",
+    "productDate": "2021-04-02"
+  },
+  {
+    "id": 555,
+    "productName": "Vụn kẹo Twinkle Topping",
+    "productNumber": "59/TRA-SAS/2021",
+    "productDate": "2021-04-02"
+  },
+  {
+    "id": 556,
+    "productName": "Xốt BBQ hương thịt xông khói",
+    "productNumber": "58/TRA-SAS/2021",
+    "productDate": "2021-04-05"
+  },
+  {
+    "id": 557,
+    "productName": "Kẹo hương bạc hà Classic Mints Peppermints",
+    "productNumber": "60/TRA-SAS/2021",
+    "productDate": "2021-04-19"
+  },
+  {
+    "id": 558,
+    "productName": "Kẹo hương đào Classic Mints Peach",
+    "productNumber": "61/TRA-SAS/2021",
+    "productDate": "2021-04-19"
+  },
+  {
+    "id": 559,
+    "productName": "Si rô hương caramel",
+    "productNumber": "62/TRA-SAS/2021",
+    "productDate": "2021-04-19"
+  },
+  {
+    "id": 560,
+    "productName": "Bình giữ nhiệt bằng nhựa",
+    "productNumber": "63/TRA-SAS/2021",
+    "productDate": "2021-04-13"
+  },
+  {
+    "id": 561,
+    "productName": "Xốt Cajun ",
+    "productNumber": "64/TRA-SAS/2021",
+    "productDate": "2021-04-23"
+  },
+  {
+    "id": 562,
+    "productName": "Xốt Sweet Chilli",
+    "productNumber": "65/TRA-SAS/2021",
+    "productDate": "2021-04-23"
+  },
+  {
+    "id": 563,
+    "productName": "Ly giấy",
+    "productNumber": "66/TRA-SAS/2021",
+    "productDate": "2021-06-30"
+  },
+  {
+    "id": 564,
+    "productName": "Vụn hạnh nhân và lê",
+    "productNumber": "67/TRA-SAS/2021",
+    "productDate": "2021-05-06"
+  }
+]
