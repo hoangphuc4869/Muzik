@@ -32,9 +32,15 @@ const playList = $(".playlist");
 const dashboard = $(".dashboard");
 const title = $("title");
 const love = $(".btn-love");
+const eachLoveIcon = $$(".each-love");
 const favList = $("#favorite-list");
+const favWrap = $(".fav-wrap");
+const iconFavList = $(".favorite-songs");
+const volumeIcon = $(".btn.btn-volume");
+const volumeIconOff = $(".btn.btn-volume i");
 
 const app = {
+  isMuted: false,
   currentIndex: 0,
   playedSong: [],
   favSong: [],
@@ -42,82 +48,13 @@ const app = {
   changingProgress: false,
   isRandom: false,
   isRepeated: false,
-  songs: [
-    {
-      name: "Rồi Em Sẽ Gặp Một Chàng Trai Khác",
-      singer: "Hippohappy",
-      path: "assets/songs/Rồi Em Sẽ Gặp Một Chàng Trai Khác  Hippohappy 𝐓𝐇𝐄 𝐌𝐀𝐒𝐊𝐄𝐑 𝐒𝐈𝐍𝐆𝐄𝐑.mp3",
-      image: "https://i.ytimg.com/vi/hB3LJJ5uj_o/sddefault.jpg",
-      favorite: "0",
-    },
-    {
-      favorite: "0",
-      name: "Ngày Mai Người Ta Lấy Chồng",
-      singer: "Thành Đạt",
-      path: "assets/songs/Ngày Mai Người Ta Lấy Chồng  Thành Đạt LYRIC VIDEO Ngày hôm ấy em đi trong mưa.mp3",
-      image:
-        "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/f/9/3/9/f9390ab7a26adbe59739fe2ba9470ee1.jpg",
-    },
-    {
-      favorite: "0",
-      name: "Gặp Lại Năm Ta 60",
-      singer: "Orange",
-      path: "assets/songs/Orange   Gặp Lại Năm Ta 60  OFFICIAL VISUALIZER.mp3",
-      image:
-        "https://photo-resize-zmp3.zmdcdn.me/w256_r1x1_jpeg/cover/9/7/0/7/9707e2f6196008127af1b1228cc66a5f.jpg",
-    },
-    {
-      favorite: "0",
-      name: "Cuộc gọi về nhà",
-      singer: "Orange",
-      path: "assets/songs/Cuộc gọi về nhà.mp3",
-      image:
-        "https://avatar-ex-swe.nixcdn.com/song/2023/10/01/4/8/2/4/1696151033977_640.jpg",
-    },
-    {
-      favorite: "0",
-      name: "Bản Tình Ca Đầu Tiên",
-      singer: "Duy Khoa",
-      path: "assets/songs/Ban-Tinh-Ca-Dau-Tien-Duy-Khoa.mp3",
-      image:
-        "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/8/0/d/480d45cf809513f9392b4e5fd199c3e3.jpg",
-    },
-    {
-      favorite: "0",
-      name: "Tò te tí",
-      singer: "Wren Evans",
-      path: "assets/songs/ToTeTi-WrenEvans-13082104.mp3",
-      image:
-        "https://avatar-ex-swe.nixcdn.com/song/2023/12/21/2/f/e/0/1703130676766_640.jpg",
-    },
-    {
-      favorite: "0",
-      name: "Bát cơm mặn",
-      singer: "Orange",
-      path: "assets/songs/y2mate.com - Bát Cơm Mặn  Ong Bây Bi  The Masked Singer Vietnam LYRICS.mp3",
-      image: "https://i.ytimg.com/vi/uaKlWUwQKZc/maxresdefault.jpg",
-    },
-    {
-      favorite: "0",
-      name: "Khóa ly biệt",
-      singer: "Voi Bản Đôn",
-      path: "assets/songs/Khóa Ly Biệt feat Voi Bản Đôn.mp3",
-      image: "https://media.viez.vn/prod/2023/11/13/image_7cddfd62b5.png",
-    },
-    {
-      // favorite: "0",
-      name: "Call me",
-      singer: "WREN EVANS",
-      path: "assets/songs/WREN EVANS  Call Me  LOI CHOI The First Album ft itsnk.mp3",
-      image: "https://i.ytimg.com/vi/DlION6FK-Yc/maxresdefault.jpg",
-    },
-  ],
+  songs: [],
 
   render: function (songs, place) {
     html = songs.map((song, index) => {
       return `<div class="song ${
         index === this.currentIndex ? "active" : ""
-      }" data-index = ${index} data-liked = "0">
+      }" data-index = ${index} data-liked = "${song.favorite}">
           <div
             class="thumb"
             style="
@@ -129,7 +66,11 @@ const app = {
             <p class="author">${song.singer}</p>
           </div>
           <div class="option">
-          
+            <div class="btn btn-love each-love ${
+              song.favorite === "1" ? "active" : ""
+            }"  >
+              <i class="fas fa-heart"></i>
+            </div>
             <i class="fas fa-ellipsis-h"></i>
           </div>
           <div class="line-wrap d-flex">
@@ -143,6 +84,7 @@ const app = {
     htmls = html.join("");
     place.innerHTML = htmls;
   },
+  changeFavStatus: function () {},
   defineProperties: function () {
     Object.defineProperty(this, "currentSong", {
       get: function () {
@@ -307,8 +249,8 @@ const app = {
       var value = progress.value;
       progress.style.background = `linear-gradient(
         90deg,
-        rgba(4, 108, 21, 0.5) ${progress.value}%,
-        rgba(255, 255, 255,1) ${progress.value}%
+        rgba(4, 108, 21, 0.5) ${value}%,
+        rgba(255, 255, 255,1) ${value}%
       )`;
     });
 
@@ -363,40 +305,53 @@ const app = {
       }
     };
     love.addEventListener("click", () => {
-      if (!app.currentSong.hasOwnProperty("favorite")) {
-        app.currentSong.favorite = "0";
-      }
       app.currentSong.favorite = app.currentSong.favorite == "0" ? "1" : "0";
 
       if (!app.favSong.includes(app.currentSong)) {
         app.favSong.push(app.currentSong);
       }
       app.favSong = app.favSong.filter((song) => song.favorite == "1");
+
       app.likeSong();
       app.render(app.favSong, favList);
-
-      console.log(app.favSong);
+      var activeInList = $("#favorite-list .song.active");
+      if (activeInList) {
+        activeInList.classList.remove("active");
+      }
     });
 
-    // playList.addEventListener("click", (e) => {
-    //   const song = e.target.closest(".song:not(.active)");
+    iconFavList.addEventListener("click", (e) => {
+      e.stopPropagation();
+      favWrap.classList.toggle("active");
+    });
+    document.addEventListener("click", (e) => {
+      if (!favWrap.contains(e.target)) {
+        favWrap.classList.remove("active");
+      }
+    });
 
-    //   if (song || e.target.closest(".option")) {
-    //     if (song) {
-    //       app.currentIndex = Number(song.dataset.index);
-    //       app.loadCurrentSong();
-    //       app.render();
-    //       audio.play();
-    //       const activeSong = $(".playlist .song.active");
-    //       activeSong.classList.remove("active");
-    //       song.classList.toggle("active", true);
-    //     }
-    //   }
-    // });
+    volumeIcon.addEventListener("click", () => {
+      if (app.isMuted) {
+        app.isMuted = false;
+        audio.volume = 1;
+        volumeIconOff.classList.add("fa-volume-up");
+        volumeIconOff.classList.remove("fa-volume-slash");
+        volumeIcon.classList.remove("active");
+      } else {
+        app.isMuted = true;
+        audio.volume = 0;
+        volumeIconOff.classList.remove("fa-volume-up");
+        volumeIconOff.classList.add("fa-volume-slash");
+        volumeIcon.classList.add("active");
+      }
+    });
   },
 
   likeSong: function () {
-    if (this.currentSong.favorite == "1") {
+    this.render(this.songs, playList);
+    this.activatePlayingSong();
+
+    if (this.currentSong.favorite === "1") {
       love.classList.add("active");
     } else {
       love.classList.remove("active");
@@ -436,28 +391,52 @@ const app = {
     audio.src = this.currentSong.path;
     app.likeSong();
   },
-  //   updateDuration: function () {
-  //     audio.addEventListener("loadedmetadata", function () {
-  //       // loadedmetadata load xong duration mới lấy
-
-  //       end.innerHTML = (audio.duration / 60).toFixed(2);
-  //     });
-  //   },
+  changeFavStatus: function () {},
   chooseAnotherSong: function () {
-    const list = $$(".playlist .song");
-    list.forEach((song, index) => {
-      song.onclick = function (e) {
-        app.currentIndex = index;
-        app.loadCurrentSong();
-        app.activatePlayingSong();
-        audio.play();
-      };
+    const playlist = $(".playlist");
+    playlist.addEventListener("click", function (e) {
+      const song = e.target.closest(".song");
+      if (song) {
+        var loveIcon = song.querySelector(".option .fas.fa-heart");
+        if (song.contains(e.target) && e.target != loveIcon) {
+          app.currentIndex = Number(song.dataset.index);
+          app.loadCurrentSong();
+          app.activatePlayingSong();
+          audio.play();
+        } else if (loveIcon.contains(e.target)) {
+          // console.log(song.dataset.index);
+          var songFav = app.songs[song.dataset.index];
+
+          songFav.favorite = songFav.favorite === "0" ? "1" : "0";
+
+          if (!app.favSong.includes(songFav)) {
+            app.favSong.push(songFav);
+          }
+          app.favSong = app.favSong.filter((song) => song.favorite == "1");
+
+          app.render(app.favSong, favList);
+          app.likeSong();
+        }
+      }
     });
   },
-  start: function () {
+
+  fetchSongs: async function () {
+    try {
+      const response = await fetch("songs.json");
+      const data = await response.json();
+      return data.songs;
+    } catch (error) {
+      console.error("Error fetching songs:", error);
+      return [];
+    }
+  },
+  start: async function () {
+    this.songs = await this.fetchSongs();
     this.defineProperties();
     this.handleEvents();
     // this.updateDuration();
+
     this.loadCurrentSong();
 
     this.render(this.songs, playList);

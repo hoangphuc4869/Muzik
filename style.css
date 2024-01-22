@@ -69,14 +69,57 @@ html {
   transition: 0.3s ease;
 }
 
+.fav-wrap {
+  padding: 12px;
+}
+
 .song.active .line-wrap.active {
   opacity: 1;
 }
 
-.player {
+.player,
+.fav-wrap {
   position: relative;
   max-width: 480px;
   margin: 0 auto;
+}
+
+.fav-wrap {
+  position: fixed;
+  right: 0;
+  width: 80%;
+  height: 100%;
+  overflow: scroll;
+  top: 0;
+  z-index: 10;
+  background: #ddd;
+  z-index: 999;
+  transform: translateX(100%);
+  opacity: 0;
+  transition: 0.5s ease;
+  background-image: linear-gradient(
+    -225deg,
+    #473b7b 0%,
+    #3584a7 51%,
+    #30d2be 100%
+  );
+}
+
+.fav-wrap.active {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+#favorite-list .song .title {
+  font-size: 14px;
+  color: #cde21c;
+}
+#favorite-list .song .author {
+  font-size: 10px;
+  color: #fff;
+}
+#favorite-list .song {
+  background-color: #fff3;
 }
 
 .player .icon-pause {
@@ -165,10 +208,40 @@ header h3 {
   font-size: 16px;
 }
 
-.control .btn.active {
-  color: #f0049a;
+.option .btn {
+  color: #a39999;
+  width: 40px;
+  height: 36px;
+}
+
+.btn {
+  transition: 0.3s;
+}
+
+.btn.active {
+  color: #ec1f55;
   border: none;
 }
+@keyframes heartBeat {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.4);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.btn.btn-love.active {
+  color: #ec1f55;
+  animation: heartBeat 0.5s;
+}
+.btn.btn-love.animated {
+  animation: heartBeat 0.3s;
+}
+
 .favorite-songs {
   position: absolute;
   top: 10px;
@@ -225,6 +298,13 @@ header h3 {
   padding: 12px;
   padding-top: 433.19px;
 }
+.fav-title {
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-align: center;
+  text-transform: capitalize;
+}
 
 .song {
   display: flex;
@@ -266,7 +346,8 @@ header h3 {
 
 .song .title {
   font-size: 16px;
-  color: var(--text-color);
+  color: #000;
+  text-transform: capitalize;
 }
 
 .song .author {

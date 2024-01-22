@@ -1,0 +1,95 @@
+{
+  "songs": [
+    {
+      "favorite": "0",
+      "name": "Tay Nắm Tay Rời",
+      "singer": "Phạm Đình Thái Ngân",
+      "path": "assets/songs/Tay Nắm Tay Rời  Phạm Đình Thái Ngân  Lyric video.mp3",
+      "image": "https://thegioidienanh.vn/stores/news_dataimages/thanhtan/122020/31/14/in_article/2130_TNTR_OFFICIAL_MUSIC_VIDEO-1.jpg?rt=20201231142132"
+    },
+    {
+      "name": "Đứa con hư",
+      "singer": "Sofia",
+      "path": "assets/songs/DuaConHu-SofiaNguyenHongThuan-9538950.mp3",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/0/3/5/3/035381de829845e11532a537e0198113.jpg",
+      "favorite": "0"
+    },
+    {
+      "name": "Rồi Em Sẽ Gặp Một Chàng Trai Khác",
+      "singer": "Hippohappy",
+      "path": "assets/songs/Rồi Em Sẽ Gặp Một Chàng Trai Khác  Hippohappy 𝐓𝐇𝐄 𝐌𝐀𝐒𝐊𝐄𝐑 𝐒𝐈𝐍𝐆𝐄𝐑.mp3",
+      "image": "https://i.ex-cdn.com/60giay.com/files/content/2023/11/25/cvert-tms2-eps16-lo-dien-hippo-happy-lam-bao-ngoc-5-1700841173652375113020-0857.jpg",
+      "favorite": "0"
+    },
+    {
+      "name": "NGÀY MAI EM ĐI MẤT",
+      "singer": "Khải Đăng ft Đạt G",
+      "path": "assets/songs/NGÀY MAI EM ĐI MẤT  KHẢI ĐĂNG FT ĐẠT G LYRIC VIDEO.mp3",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/9/8/6/c/986ccfe2a965e11b4c967745a0fefe96.jpg",
+      "favorite": "0"
+    },
+    {
+      "name": "Hôm Nay Em Cưới Rồi",
+      "singer": "Khải Đăng",
+      "path": "assets/songs/Hôm Nay Em Cưới Rồi  Khải Đăng Official  Audio.mp3",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/0/5/6/6/056652306efa257560bcf64b30f756a3.jpg",
+      "favorite": "0"
+    },
+    {
+      "favorite": "0",
+      "name": "Ngày Mai Người Ta Lấy Chồng",
+      "singer": "Thành Đạt",
+      "path": "assets/songs/Ngày Mai Người Ta Lấy Chồng  Thành Đạt LYRIC VIDEO Ngày hôm ấy em đi trong mưa.mp3",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/f/9/3/9/f9390ab7a26adbe59739fe2ba9470ee1.jpg"
+    },
+    {
+      "favorite": "0",
+      "name": "Gặp Lại Năm Ta 60",
+      "singer": "Orange",
+      "path": "assets/songs/Orange   Gặp Lại Năm Ta 60  OFFICIAL VISUALIZER.mp3",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w256_r1x1_jpeg/cover/9/7/0/7/9707e2f6196008127af1b1228cc66a5f.jpg"
+    },
+    {
+      "favorite": "0",
+      "name": "Cuộc gọi về nhà",
+      "singer": "Orange",
+      "path": "assets/songs/Cuộc gọi về nhà.mp3",
+      "image": "https://avatar-ex-swe.nixcdn.com/song/2023/10/01/4/8/2/4/1696151033977_640.jpg"
+    },
+    {
+      "favorite": "0",
+      "name": "Bản Tình Ca Đầu Tiên",
+      "singer": "Duy Khoa",
+      "path": "assets/songs/Ban-Tinh-Ca-Dau-Tien-Duy-Khoa.mp3",
+      "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/8/0/d/480d45cf809513f9392b4e5fd199c3e3.jpg"
+    },
+    {
+      "favorite": "0",
+      "name": "Tò te tí",
+      "singer": "Wren Evans",
+      "path": "assets/songs/ToTeTi-WrenEvans-13082104.mp3",
+      "image": "https://avatar-ex-swe.nixcdn.com/song/2023/12/21/2/f/e/0/1703130676766_640.jpg"
+    },
+    {
+      "favorite": "0",
+      "name": "Bát cơm mặn",
+      "singer": "Orange",
+      "path": "assets/songs/y2mate.com - Bát Cơm Mặn  Ong Bây Bi  The Masked Singer Vietnam LYRICS.mp3",
+      "image": "https://i.ytimg.com/vi/uaKlWUwQKZc/maxresdefault.jpg"
+    },
+    {
+      "favorite": "0",
+      "name": "Khóa ly biệt",
+      "singer": "Voi Bản Đôn",
+      "path": "assets/songs/Khóa Ly Biệt feat Voi Bản Đôn.mp3",
+      "image": "https://media.viez.vn/prod/2023/11/13/image_7cddfd62b5.png"
+    },
+    {
+      "favorite": "0",
+      "name": "Call me",
+      "singer": "WREN EVANS",
+      "path": "assets/songs/WREN EVANS  Call Me  LOI CHOI The First Album ft itsnk.mp3",
+      "image": "https://i.ytimg.com/vi/DlION6FK-Yc/maxresdefault.jpg"
+    }
+  ]
+}
